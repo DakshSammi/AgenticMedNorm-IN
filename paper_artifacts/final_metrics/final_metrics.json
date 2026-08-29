@@ -1,0 +1,124 @@
+{
+  "annotation_model_benchmark": {
+    "N": 125,
+    "gpt55_best_primary_score": 0.9134,
+    "limitation": "Per-record outputs/model aliases are not fully reconstructed; do not generalize beyond this benchmark.",
+    "status": "LEGACY_MODEL_SELECTION_BENCHMARK"
+  },
+  "corpus": {
+    "annotation_complete_prescriptions": 893,
+    "deidentified_prescriptions": 893,
+    "medication_bearing_prescriptions": 782,
+    "medication_mentions": 3027,
+    "pipeline_evaluated_prescriptions": 893,
+    "raw_prescriptions": 893,
+    "unique_medication_surface_forms": 1276,
+    "zero_medication_prescriptions": 111
+  },
+  "generated_at": "2026-08-29T13:52:07.716062+00:00",
+  "gptoss_comparison": {
+    "common_N": 18
+  },
+  "human_validation": {
+    "metrics": null,
+    "status": "DEFERRED_FUTURE_WORK"
+  },
+  "intermodel_concordance": [
+    {
+      "common_N": "51",
+      "comparison": "Terra vs Qwen",
+      "mapping_agreement": "0.5882",
+      "mapping_kappa": "0.3442",
+      "routing_agreement": "0.5882",
+      "routing_kappa": "0.1439"
+    },
+    {
+      "common_N": "18",
+      "comparison": "GPT-OSS vs Qwen",
+      "mapping_agreement": "0.8333",
+      "mapping_kappa": "0.7416",
+      "routing_agreement": "0.4444",
+      "routing_kappa": "0.2469"
+    },
+    {
+      "common_N": "18",
+      "comparison": "Terra vs GPT-OSS",
+      "mapping_agreement": "0.5556",
+      "mapping_kappa": "0.3872",
+      "routing_agreement": "0.3333",
+      "routing_kappa": "-0.1368"
+    }
+  ],
+  "knowledge_resources": {
+    "operational": [
+      "NPPA",
+      "CDSCO",
+      "NLEM",
+      "open Indian medicine dataset",
+      "RxNorm/RxNav",
+      "ATC/RxClass"
+    ]
+  },
+  "pipeline": {
+    "ranking": "unweighted RRF, k=60, top_n=20",
+    "retrieval_branches": [
+      "R1 exact/fuzzy",
+      "R2 BM25",
+      "R3 SapBERT biomedical dense",
+      "R4 RxNorm/RxNav",
+      "R5 India KB"
+    ]
+  },
+  "public_release": {
+    "real_prescriptions": "DEFERRED_PENDING_EXPERT_ADJUDICATION",
+    "synthetic_examples": true
+  },
+  "qwen_semantic_audit": {
+    "N": 762,
+    "mapping_assessment": {
+      "CONTRADICTED": 109,
+      "INSUFFICIENT_EVIDENCE": 95,
+      "SUPPORTED": 558
+    },
+    "pipeline_decision_assessment": {
+      "AGREE": 562,
+      "DISAGREE": 200
+    }
+  },
+  "reproducibility": {
+    "figures": 16,
+    "script": "scripts/reproduce_paper_artifacts.py",
+    "tables": 13
+  },
+  "resolution_levels": {
+    "CLINICAL_FORMULATION": 1,
+    "EXACT_LOCAL_PRODUCT": 104,
+    "INGREDIENT_ONLY": 393,
+    "LOCAL_BRAND_FAMILY": 2519,
+    "NO_SUPPORTED_RESOLUTION": 1,
+    "TERMINOLOGY_ONLY": 9
+  },
+  "semantic_identifiers": {
+    "any_local_semantic_id_count": 3017,
+    "any_local_semantic_id_percent": 99.7,
+    "atc_count": 106,
+    "atc_percent": 3.5,
+    "local_brand_family_count": 2623,
+    "local_brand_family_percent": 86.7,
+    "local_product_count": 0,
+    "local_product_percent": 0.0,
+    "no_semantic_identifier_count": 1,
+    "no_semantic_identifier_percent": 0.0,
+    "rxcui_count": 424,
+    "rxcui_percent": 14.0
+  },
+  "snapshot_id": "FINAL_893",
+  "terra_comparison": {
+    "common_N": 51
+  },
+  "verification": {
+    "ACCEPT": 2803,
+    "HUMAN_REVIEW": 223,
+    "NIL": 1
+  }
+}

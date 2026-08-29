@@ -1,0 +1,7 @@
+resource,country_or_scope,role,authority_tier,retrieval_branch,version_or_date,operational_status,record_or_concept_count
+NPPA,India,brand-family corroboration and official India source registration; product-detail exact evidence unavailable in v1,official,R5/evidence,2026-08-26,USED_FOR_BRAND_FAMILY_EVIDENCE_ONLY,1561
+CDSCO,India,official approved-drug/FDC source-record retrieval context,official,R3/R5,2026-08-26,USED_AS_OFFICIAL_CONTEXT_NOT_PRODUCT_TRUTH,10013
+NLEM,India,essential-medicine ingredient/form/strength context,official,R3/R5,2022,USED_AS_OFFICIAL_CONTEXT,880
+open Indian medicine dataset,India,high-recall local product and brand-family candidate inventory,secondary candidate inventory,R1/R2/R5,7c06a889dc949d3b6a9be28c448f4aa1e7a2848f,USED_AS_CANDIDATE_QUARANTINE_INVENTORY,253973
+RxNorm/RxNav,international terminology,ingredient enrichment and terminology fallback where supported,terminology,R4/evidence,RxNorm 03-Aug-2026 where captured,USED_FOR_SUPPORTED_INGREDIENT_TERMINOLOGY,1716
+ATC/RxClass,international terminology,supported ATC class crosswalks via RxClass where available,terminology,evidence,2026-08-26,USED_WHERE_SUPPORTED,265

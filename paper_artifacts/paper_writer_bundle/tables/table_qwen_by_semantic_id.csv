@@ -1,0 +1,4 @@
+group,mapping_assessment,N,group_denominator,percentage
+True,SUPPORTED,558,761,73.3
+True,CONTRADICTED,109,761,14.3
+True,INSUFFICIENT_EVIDENCE,94,761,12.4

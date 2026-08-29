@@ -1,0 +1,9 @@
+metric,N,source
+raw_prescriptions,893,configs/frozen/evaluation_final_893_manifest.json
+deidentified_prescriptions,893,configs/frozen/evaluation_final_893_manifest.json
+annotation_complete_prescriptions,893,configs/frozen/evaluation_final_893_manifest.json
+pipeline_evaluated_prescriptions,893,derived/layer_a_documents.csv
+medication_bearing_prescriptions,782,derived/layer_a_medication_mentions.csv
+zero_medication_prescriptions,111,derived/layer_a_documents.csv; derived/layer_a_medication_mentions.csv
+medication_mentions,3027,derived/layer_a_medication_mentions.csv
+unique_medication_surface_forms,1276,derived/layer_a_medication_mentions.csv:lexical_surface_normalized

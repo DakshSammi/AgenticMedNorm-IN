@@ -1,0 +1,32 @@
+{
+  "document_metadata": {
+    "document_id": "synth_p2",
+    "source_type": "synthetic_prescription",
+    "language": [
+      "en"
+    ],
+    "total_pages": 1
+  },
+  "raw_entities": {
+    "clinical_history": [
+      "SYNTHETIC example: fever and body ache"
+    ],
+    "medications": [
+      {
+        "raw_medication_text": "Tab Paracetamol 500 mg",
+        "raw_dosage_text": "1 tab",
+        "raw_frequency_text": "SOS",
+        "raw_duration_text": "3 days",
+        "raw_route_text": "P/O",
+        "page_number": 1
+      },
+      {
+        "raw_medication_text": "ORS sachet",
+        "raw_dosage_text": "1 sachet",
+        "raw_frequency_text": "as advised",
+        "raw_route_text": "P/O",
+        "page_number": 1
+      }
+    ]
+  }
+}

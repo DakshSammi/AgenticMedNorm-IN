@@ -1,0 +1,1 @@
+Code, configuration, aggregate artifacts, synthetic examples, and public-source KB build scripts may be released. Real de-identified prescription images and row-level annotations are deferred pending expert adjudication and governance approval.

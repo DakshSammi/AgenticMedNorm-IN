@@ -1,0 +1,4 @@
+- independent expert adjudication
+- multi-reviewer agreement
+- expert calibration of automated semantic judges
+- expert-adjudicated public benchmark

@@ -1,0 +1,3 @@
+from scripts.reproduce_paper_artifacts import render_single_figure
+
+render_single_figure('fig08_qwen_by_resolution')

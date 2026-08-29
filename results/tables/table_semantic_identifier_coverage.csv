@@ -1,0 +1,17 @@
+cohort,identifier_type,N,denominator,percentage
+full893_pipeline,RxNorm RxCUI,424,3027,14.0
+full893_pipeline,ATC therapeutic-class identifier,106,3027,3.5
+full893_pipeline,local brand-family ID,2623,3027,86.7
+full893_pipeline,local product ID,0,3027,0.0
+full893_pipeline,any external standardized ID,424,3027,14.0
+full893_pipeline,any local semantic ID,3017,3027,99.7
+full893_pipeline,both local + external,415,3027,13.7
+full893_pipeline,no semantic identifier,1,3027,0.0
+audit762,RxNorm RxCUI,0,762,0.0
+audit762,ATC therapeutic-class identifier,0,762,0.0
+audit762,local brand-family ID,539,762,70.7
+audit762,local product ID,111,762,14.6
+audit762,any external standardized ID,0,762,0.0
+audit762,any local semantic ID,761,762,99.9
+audit762,both local + external,0,762,0.0
+audit762,no semantic identifier,1,762,0.1

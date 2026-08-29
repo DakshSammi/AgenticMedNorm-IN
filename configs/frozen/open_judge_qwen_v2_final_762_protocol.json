@@ -1,0 +1,94 @@
+{
+  "protocol_id": "OPEN_JUDGE_QWEN_V2_FINAL_762",
+  "version": "3.0",
+  "created_at": "2026-08-28T12:30:00Z",
+  "description": "Open-weight LLM semantic auditor V2 for final 762-case validation",
+  "role": "primary open-weight LLM semantic auditor",
+  "status": "FROZEN_FINAL",
+  "replaces": "OPEN_JUDGE_QWEN_V2_CALIBRATION51",
+  "model": {
+    "served_model_id": "dengcao/Qwen3-30B-A3B-Instruct-2507:latest",
+    "backend": "ollama",
+    "endpoint": "http://localhost:11435",
+    "api_type": "ollama",
+    "context_limit": 32768,
+    "max_output_tokens": 400,
+    "quantization": "Q4_K_M",
+    "parameter_size": "30.5B"
+  },
+  "generation": {
+    "temperature": 0,
+    "num_predict": 400,
+    "thinking_disabled": true,
+    "thinking_mechanism": "/no_think prefix",
+    "format": "json"
+  },
+  "quota_policy": {
+    "quota_type": "local_unlimited",
+    "safe_utilization_percent": 85,
+    "worker_count": 1,
+    "max_workers": 2,
+    "retry_policy": "conservative_throttling"
+  },
+  "judge_prompt": {
+    "system_instruction": "/no_think\nYou are evaluating an existing semantic medication normalization pipeline result.\n\nYou MUST answer TWO separate questions:\n\nA. MAPPING ASSESSMENT: Is the proposed identity at the proposed resolution level supported by the supplied evidence?\n\nB. PIPELINE ROUTING ASSESSMENT: Did the pipeline appropriately choose ACCEPT, HUMAN_REVIEW, or NIL?\n\nYou MUST return your evaluation as a JSON object with EXACTLY these fields:\n\n{\n  \"mapping_assessment\": \"SUPPORTED\" | \"CONTRADICTED\" | \"INSUFFICIENT_EVIDENCE\",\n  \"pipeline_decision_assessment\": \"AGREE\" | \"DISAGREE\" | \"UNCERTAIN\",\n  \"identity_supported\": \"TRUE\" | \"FALSE\" | \"UNKNOWN\",\n  \"ingredient_supported\": \"TRUE\" | \"FALSE\" | \"UNKNOWN\" | \"NOT_APPLICABLE\",\n  \"strength_supported\": \"TRUE\" | \"FALSE\" | \"UNKNOWN\" | \"NOT_APPLICABLE\",\n  \"dosage_form_supported\": \"TRUE\" | \"FALSE\" | \"UNKNOWN\" | \"NOT_APPLICABLE\",\n  \"fdc_supported\": \"TRUE\" | \"FALSE\" | \"UNKNOWN\" | \"NOT_APPLICABLE\",\n  \"resolution_level_appropriate\": \"TRUE\" | \"FALSE\" | \"UNKNOWN\",\n  \"reason_code\": \"short enum/string\",\n  \"confidence\": \"HIGH\" | \"MEDIUM\" | \"LOW\",\n  \"rationale\": \"MAX 240 characters\"\n}\n\nOPERATIONAL GUIDANCE:\n\nSUPPORTED: The evidence positively supports the selected mapping AT THE CLAIMED RESOLUTION LEVEL.\nIt does NOT require every optional semantic field to be independently proven.\n\nCONTRADICTED: Positive supplied evidence conflicts with the selected identity or claimed resolution.\n\nINSUFFICIENT_EVIDENCE: Neither enough support nor positive contradiction exists.\nDo NOT choose INSUFFICIENT_EVIDENCE merely because:\n- ingredient information is absent\n- strength is absent\n- form is absent\n- exact product evidence is absent\nWHEN those attributes are not required by the claimed resolution.\n\nResolution-specific rules:\n- LOCAL_BRAND_FAMILY: exact product evidence NOT required.\n- INGREDIENT_ONLY: brand/product evidence NOT required.\n- EXACT_LOCAL_PRODUCT: exact product evidence required.\n- CLINICAL_FORMULATION: formulation evidence required.\n\nReturn ONLY the JSON object. No other text.",
+    "user_template": "Evaluate this medication normalization result:\n\n== RAW MENTION ==\nText: {raw_medication_text}\nVisible Strength: {visible_strength}\nVisible Dosage Form: {visible_dosage_form}\nVisible Route: {visible_route}\nVisible Frequency: {visible_frequency}\n\n== PIPELINE OUTPUT ==\nVerification Decision: {verification_decision}\nResolution Level: {resolution_level}\nSelected Entity: {selected_entity_label} ({selected_entity_type})\n{pipeline_context}\n\n== TOP CANDIDATES ==\n{top_candidates_formatted}\n\n== SUPPORTING EVIDENCE FOR SELECTED MAPPING ==\n{support_evidence_formatted}\n\n== COMPETING EVIDENCE ==\n{competing_evidence_formatted}\n\n== CONTRADICTIONS ==\n{contradictions_formatted}\n\n== EVIDENCE STATUS ==\nLexical: {evidence_lexical}\nSemantic: {evidence_semantic}\nFormulation: {evidence_formulation}\nNPPA: {evidence_nppa}"
+  },
+  "output_schema": {
+    "mapping_assessment": {
+      "type": "enum",
+      "values": ["SUPPORTED", "CONTRADICTED", "INSUFFICIENT_EVIDENCE"]
+    },
+    "pipeline_decision_assessment": {
+      "type": "enum",
+      "values": ["AGREE", "DISAGREE", "UNCERTAIN"]
+    },
+    "identity_supported": {
+      "type": "enum",
+      "values": ["TRUE", "FALSE", "UNKNOWN"]
+    },
+    "ingredient_supported": {
+      "type": "enum",
+      "values": ["TRUE", "FALSE", "UNKNOWN", "NOT_APPLICABLE"]
+    },
+    "strength_supported": {
+      "type": "enum",
+      "values": ["TRUE", "FALSE", "UNKNOWN", "NOT_APPLICABLE"]
+    },
+    "dosage_form_supported": {
+      "type": "enum",
+      "values": ["TRUE", "FALSE", "UNKNOWN", "NOT_APPLICABLE"]
+    },
+    "fdc_supported": {
+      "type": "enum",
+      "values": ["TRUE", "FALSE", "UNKNOWN", "NOT_APPLICABLE"]
+    },
+    "resolution_level_appropriate": {
+      "type": "enum",
+      "values": ["TRUE", "FALSE", "UNKNOWN"]
+    },
+    "reason_code": {
+      "type": "string"
+    },
+    "confidence": {
+      "type": "enum",
+      "values": ["HIGH", "MEDIUM", "LOW"]
+    },
+    "rationale": {
+      "type": "string",
+      "max_length": 240
+    }
+  },
+  "hashes": {
+    "protocol_hash": "122d764c602b1114b5eee42edffdde289fe7da2f4c7aec9a7861af4b52408b51",
+    "prompt_hash": "69febd6d02c0350db7b07431de1667dc02cec1f58311762368d7eca179e830e0",
+    "schema_hash": "39b8db4ba768c6b955ecc1008c55bc0667a3d8d4457e29c882bd3b4941ea0a3b",
+    "input_builder_hash": "TBD"
+  },
+  "files": {
+    "protocol": "configs/frozen/open_judge_qwen_v2_final_762_protocol.json",
+    "enriched_inputs": "derived/evaluation/qwen_enriched_inputs_762.jsonl",
+    "state_db": "state/qwen_final_validation762.sqlite",
+    "manifest": "expert validation paper/05_manifests/qwen_final_remaining711_manifest.json"
+  }
+}

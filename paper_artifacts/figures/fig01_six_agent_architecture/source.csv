@@ -1,0 +1,12 @@
+node,x,y
+Handwritten prescription,0.0,2.0
+De-identification,1.0,2.0
+Annotation\nLayer A,2.0,2.0
+R1/R2/R3/R4/R5\nCandidate retrieval,3.0,2.0
+Candidate union,4.0,2.0
+RRF k=60,5.0,2.0
+Evidence,6.0,2.0
+Verification,7.0,2.0
+ACCEPT\nHUMAN_REVIEW\nNIL\nLayer B,8.0,2.0
+India KB,3.0,3.2
+RxNorm/ATC,5.5,3.2

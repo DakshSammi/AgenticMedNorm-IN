@@ -1,0 +1,25 @@
+# AgenticMedNorm-IN public release dependencies.
+# Python: 3.11+ recommended.
+
+# Core data/model contracts
+pydantic>=2.7,<3
+pandas>=2.1,<3
+numpy>=1.24,<3
+rapidfuzz>=3.6,<4
+
+# File, image, and service utilities
+requests>=2.31,<3
+python-dotenv>=1.0,<2
+tqdm>=4.66,<5
+pillow>=10,<12
+opencv-python-headless>=4.9,<5
+
+# Optional/private full-pipeline annotation and retrieval
+openai>=1.60,<2
+faiss-cpu>=1.8,<2
+sentence-transformers>=3,<6
+transformers>=4.40,<5
+torch>=2.2
+
+# Testing
+pytest>=8,<9

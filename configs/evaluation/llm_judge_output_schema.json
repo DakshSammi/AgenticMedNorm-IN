@@ -1,0 +1,64 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "instructions": "Use only supplied candidates and evidence. Do not invent identities.",
+  "properties": {
+    "dosage_form_supported": {
+      "type": "boolean"
+    },
+    "evidence_ids_used": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "fdc_supported": {
+      "type": "boolean"
+    },
+    "identity_supported": {
+      "type": "boolean"
+    },
+    "ingredient_set_supported": {
+      "type": "boolean"
+    },
+    "judge_decision": {
+      "enum": [
+        "AGREE",
+        "DISAGREE",
+        "UNCERTAIN"
+      ]
+    },
+    "preferred_candidate_id": {
+      "type": "string"
+    },
+    "reason_code": {
+      "type": "string"
+    },
+    "resolution_level_appropriate": {
+      "type": "boolean"
+    },
+    "strength_supported": {
+      "type": "boolean"
+    },
+    "unsupported_claims": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "judge_decision",
+    "identity_supported",
+    "ingredient_set_supported",
+    "strength_supported",
+    "dosage_form_supported",
+    "fdc_supported",
+    "resolution_level_appropriate",
+    "preferred_candidate_id",
+    "unsupported_claims",
+    "evidence_ids_used",
+    "reason_code"
+  ],
+  "type": "object"
+}

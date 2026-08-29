@@ -1,0 +1,5 @@
+study,cohort,purpose
+Study A,125 prescriptions,annotation-model selection benchmark
+Study B,893 prescriptions,full end-to-end pipeline
+Study C,150 prescriptions / 762 mentions,independent Qwen semantic audit
+Future work,expert adjudication,not completed for this submission

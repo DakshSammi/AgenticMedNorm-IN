@@ -1,0 +1,34 @@
+{
+  "document_metadata": {
+    "document_id": "synth_p1",
+    "source_type": "synthetic_prescription",
+    "language": [
+      "en"
+    ],
+    "total_pages": 1
+  },
+  "raw_entities": {
+    "diagnosis": [
+      "SYNTHETIC example: reflux symptoms"
+    ],
+    "medications": [
+      {
+        "raw_medication_text": "Tab Pantop 40",
+        "raw_dosage_text": "1 tab",
+        "raw_frequency_text": "OD",
+        "raw_timing_text": "BBF",
+        "raw_duration_text": "5 days",
+        "raw_route_text": "P/O",
+        "page_number": 1
+      },
+      {
+        "raw_medication_text": "Syp Mucaine Gel",
+        "raw_dosage_text": "10 ml",
+        "raw_frequency_text": "TDS",
+        "raw_duration_text": "3 days",
+        "raw_route_text": "P/O",
+        "page_number": 1
+      }
+    ]
+  }
+}

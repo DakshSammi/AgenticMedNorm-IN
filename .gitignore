@@ -1,0 +1,165 @@
+# =============================================================================
+# ClinDoc-Bench-In  —  .gitignore
+# =============================================================================
+# Philosophy: Track only reusable code, schemas, prompts, configs, anonymised
+# manifests, and final paper-facing summaries. Never track raw PHI data,
+# model outputs with patient text, large binaries, or server-specific state.
+# =============================================================================
+
+# ---------------------------------------------------------------------------
+# Private/PHI data (NEVER commit)
+# ---------------------------------------------------------------------------
+data/images/
+data/raw/
+data/ground_truth/
+data/outputs/
+data/normalized/
+data/enhanced_outputs/
+data/baseline_evaluation/
+data/demo_synthea_bundle.json
+data/prescriptions/
+data/raw_ground_truths/
+raw_ground_truths/
+prescriptions/
+prescription_pipeline_jbhi_ieee/raw/
+prescription_pipeline_jbhi_ieee/anonymized/
+prescription_pipeline_jbhi_ieee/ground_truths_json/
+*.pdf
+!paper_artifacts/figures/**/*.pdf
+!paper_artifacts/paper_writer_bundle/figures/**/*.pdf
+
+# ---------------------------------------------------------------------------
+# Benchmark outputs (large, run-specific, contain patient text in raw form)
+# ---------------------------------------------------------------------------
+benchmark_outputs/
+outputs/
+exports/*.tar.gz
+exports/*.gz
+derived/context_bundles.jsonl
+state/pipeline_state.sqlite
+state/pipeline_state.sqlite-*
+
+# ---------------------------------------------------------------------------
+# Model caches and weights
+# ---------------------------------------------------------------------------
+cache/
+.cache/
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+models/
+
+# ---------------------------------------------------------------------------
+# Conda / venv / pip
+# ---------------------------------------------------------------------------
+.venv/
+.venv*/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# ---------------------------------------------------------------------------
+# Logs (runtime logs, not docs)
+# ---------------------------------------------------------------------------
+logs/*.log
+logs/*.pid
+*.log
+
+# ---------------------------------------------------------------------------
+# Secrets and environment files
+# ---------------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+credentials/
+credentials.*
+secrets/
+*secret*
+*token*
+
+# ---------------------------------------------------------------------------
+# Server-specific scratch directories
+# ---------------------------------------------------------------------------
+server1_copy/
+server2_copy/
+configs/servers/
+prescription_pipeline/outputs/
+prescription_pipeline/logs/
+prescription_pipeline/prescriptions/
+prescription_pipeline/raw_ground_truths/
+prescription_pipeline/.pytest_cache/
+
+# ---------------------------------------------------------------------------
+# Stale root-level planning artefacts (not part of the clean repo)
+# ---------------------------------------------------------------------------
+implementation_plandf1
+implementation_planfdf
+clean_files.py
+
+# ---------------------------------------------------------------------------
+# Editor and OS
+# ---------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ---------------------------------------------------------------------------
+# Jupyter
+# ---------------------------------------------------------------------------
+.ipynb_checkpoints/
+*.ipynb
+
+# ---------------------------------------------------------------------------
+# Docker volumes / compose state
+# ---------------------------------------------------------------------------
+docker-compose.override.yml
+
+# ---------------------------------------------------------------------------
+# Drugbank (large third-party data)
+# ---------------------------------------------------------------------------
+drugbank_all_drugs/
+
+# ---------------------------------------------------------------------------
+# Rebuild/runtime artifacts that are private, large, or reproducible
+# ---------------------------------------------------------------------------
+prescription_pipeline_jbhi_ieee/annotations_json
+generated/
+needs_review/
+review/
+expert validation paper/
+logs/
+state/*.sqlite
+state/*.sqlite-*
+knowledge/cache/
+knowledge/raw/
+knowledge/downloads/
+knowledge/**/*.faiss
+knowledge/**/*.index
+peer_kb/
+*.parquet
+*.jsonl
+nohup.out
+screenlog.*
+
+# ---------------------------------------------------------------------------
+# Compiled docs
+# ---------------------------------------------------------------------------
+docs/_build/
+site/

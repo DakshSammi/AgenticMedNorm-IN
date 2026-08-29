@@ -1,0 +1,6 @@
+{
+  "evidence": {
+    "depth": 20,
+    "strong_lexical_threshold": 0.9
+  }
+}

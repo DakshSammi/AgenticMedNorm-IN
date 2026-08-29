@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "Please cite the associated AgenticMedNorm-IN manuscript when using this software."
+title: "AgenticMedNorm-IN"
+type: software
+repository-code: "https://github.com/DakshSammi/AgenticMedNorm-IN"
+license: "NOASSERTION"

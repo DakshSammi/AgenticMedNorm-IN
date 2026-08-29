@@ -1,0 +1,88 @@
+{
+  "pipeline_version": "public_synthetic_smoke_v1",
+  "ranking": {
+    "rrf_k": 60,
+    "top_k": 5
+  },
+  "candidate_catalog": [
+    {
+      "candidate_id": "ENTITY:BRAND_FAMILY:BFAM_SYN_PANTOP",
+      "candidate_name": "Pantop",
+      "entity_type": "BRAND_FAMILY",
+      "aliases": [
+        "pantop",
+        "tab pantop 40"
+      ],
+      "ingredient_components": [
+        {
+          "ingredient_name": "Pantoprazole",
+          "normalized_strength": "40mg"
+        }
+      ],
+      "rxnorm_rxcui": "40790",
+      "atc_codes": [
+        "A02BC02"
+      ],
+      "source_state": "SYNTHETIC_PUBLIC_EXAMPLE"
+    },
+    {
+      "candidate_id": "ENTITY:BRAND_FAMILY:BFAM_SYN_MUCAINE",
+      "candidate_name": "Mucaine Gel",
+      "entity_type": "BRAND_FAMILY",
+      "aliases": [
+        "mucaine gel",
+        "syp mucaine gel"
+      ],
+      "ingredient_components": [],
+      "rxnorm_rxcui": "",
+      "atc_codes": [],
+      "source_state": "SYNTHETIC_PUBLIC_EXAMPLE"
+    },
+    {
+      "candidate_id": "ENTITY:INGREDIENT:ING_SYN_PARACETAMOL",
+      "candidate_name": "Paracetamol",
+      "entity_type": "INGREDIENT",
+      "aliases": [
+        "paracetamol",
+        "tab paracetamol 500 mg"
+      ],
+      "ingredient_components": [
+        {
+          "ingredient_name": "Paracetamol",
+          "normalized_strength": "500mg"
+        }
+      ],
+      "rxnorm_rxcui": "161",
+      "atc_codes": [
+        "N02BE01"
+      ],
+      "source_state": "SYNTHETIC_PUBLIC_EXAMPLE"
+    },
+    {
+      "candidate_id": "ENTITY:INGREDIENT:ING_SYN_ORS",
+      "candidate_name": "Oral rehydration salts",
+      "entity_type": "INGREDIENT",
+      "aliases": [
+        "ors",
+        "ors sachet"
+      ],
+      "ingredient_components": [],
+      "rxnorm_rxcui": "",
+      "atc_codes": [],
+      "source_state": "SYNTHETIC_PUBLIC_EXAMPLE"
+    },
+    {
+      "candidate_id": "ENTITY:BRAND_FAMILY:BFAM_SYN_ATOZ",
+      "candidate_name": "A to Z",
+      "entity_type": "BRAND_FAMILY",
+      "aliases": [
+        "a to z",
+        "cap a to z"
+      ],
+      "ingredient_components": [],
+      "rxnorm_rxcui": "",
+      "atc_codes": [],
+      "source_state": "SYNTHETIC_PUBLIC_EXAMPLE"
+    }
+  ]
+}

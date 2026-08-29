@@ -1,0 +1,12 @@
+paper_source,mentioned_in_introduction,mentioned_in_methods,mentioned_in_figure,citation_present,raw_source_acquired,parser_complete,canonical_integration_complete,retrieval_integration_complete,evidence_integration_complete,final_status,paper_text_action
+NPPA Pharma Sahi Daam,True,True,False,True,True,False,False,True,False,PARTIALLY_IMPLEMENTED,Describe as index-level operational with product-detail endpoint pilot blocked; do not claim product-detail integration.
+CDSCO approved-drug/FDC resources,True,True,False,True,True,True,True,True,True,PARTIALLY_IMPLEMENTED,Describe structured pilot extraction and manual-review limitations; avoid claiming exhaustive perfect parsing.
+NLEM 2022,True,True,False,True,True,True,True,True,True,FULLY_IMPLEMENTED,"Can describe as structured generic/formulation/essential-list evidence, not brand identity."
+"253,973-row open Indian medicine dataset",True,True,False,True,True,True,True,True,True,FULLY_IMPLEMENTED,"Describe as high-recall quarantined candidate inventory, not validated canonical database."
+RxNorm/RxNav,True,True,True,True,True,True,True,True,True,PARTIALLY_IMPLEMENTED,Ingredient enrichment operational; formulation/SCD/SBD mapping remains pending.
+ATC/RxClass,True,True,False,True,True,True,True,True,True,PARTIALLY_IMPLEMENTED,Describe as partial supported ingredient ATC enrichment only.
+BODHI-M/context evidence,True,True,True,True,True,True,True,True,True,PARTIALLY_IMPLEMENTED,Retain only if final architecture labels it context-only and non-brand-authoritative.
+PMBI/Jan Aushadhi,False,False,False,True,False,False,False,False,False,REGISTERED_ONLY,Do not describe as implemented unless user supplies official file.
+PubChem,False,False,False,True,False,False,False,False,False,REGISTERED_ONLY,Optional P2; remove or mark future enrichment if paper mentions operational use.
+DrugSetu/Eka,False,False,False,False,False,False,False,False,False,REGISTERED_ONLY,Do not describe as implemented without authorization/API access.
+MIMS/CIMS India,False,False,False,False,False,False,False,False,False,REMOVE_FROM_PAPER,MIMS is DO_NOT_AUTOMATE; remove as implemented source unless manual permission is obtained.

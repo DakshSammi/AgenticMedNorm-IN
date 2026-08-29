@@ -1,0 +1,262 @@
+{
+  "FINAL_893_INPUT_COMPLETE": true,
+  "FINAL_893_PIPELINE_COMPLETE": true,
+  "FINAL_893_READY": true,
+  "artifacts": {
+    "audit/accepted_brand_family_provenance.csv": {
+      "bytes": "626924",
+      "final_path": "derived/final893/audit/accepted_brand_family_provenance.csv",
+      "sha256": "c920604e66c99d6e89a31fa2f98c4f9e8521eff0e5e3115728fc166d37862cd2",
+      "source_path": "derived/audit/accepted_brand_family_provenance.csv"
+    },
+    "audit/final893_pending_prescriptions.csv": {
+      "bytes": "40727",
+      "final_path": "derived/final893/audit/final893_pending_prescriptions.csv",
+      "sha256": "2e9fc30df44423f6c6e25c28e3bc8620db8c39358ac6ba80148c91d9ac3c3539",
+      "source_path": "derived/audit/final893_pending_prescriptions.csv"
+    },
+    "audit/full_dataset_consistency_audit.json": {
+      "bytes": "3369",
+      "final_path": "derived/final893/audit/full_dataset_consistency_audit.json",
+      "sha256": "45f64d157442ea1ccc5cfb995bf234bfdc39a6c7c477ba5008e5255ccbbcd60b",
+      "source_path": "derived/pipeline/full_dataset_consistency_audit.json"
+    },
+    "evidence/evidence_assessments.csv": {
+      "bytes": "260317260",
+      "final_path": "derived/final893/evidence/evidence_assessments.csv",
+      "sha256": "9f2b87a50b72def13aaf5061b6aca2536eee6d59a2d6ffa2d6672f01fac479bf",
+      "source_path": "derived/evidence/evidence_assessments.csv"
+    },
+    "evidence/evidence_summary.json": {
+      "bytes": "1581",
+      "final_path": "derived/final893/evidence/evidence_summary.json",
+      "sha256": "e3cb85b302b976d1f26a97b821642ca8912c15c154de3664c8e4bed529a4cf30",
+      "source_path": "derived/evidence/evidence_summary.json"
+    },
+    "layer_a/context_bundles.jsonl": {
+      "bytes": "429158",
+      "final_path": "derived/final893/layer_a/context_bundles.jsonl",
+      "sha256": "705dd9c2492ad2763afaa1b3ec2409dbea616528095c45db50f92cb402a863a9",
+      "source_path": "derived/context_bundles.jsonl"
+    },
+    "layer_a/layer_a_documents.csv": {
+      "bytes": "211810",
+      "final_path": "derived/final893/layer_a/layer_a_documents.csv",
+      "sha256": "d5e6233f7060e777892b200d343219971937c322ef96aba6dbcc1a8bf1a5803a",
+      "source_path": "derived/layer_a_documents.csv"
+    },
+    "layer_a/layer_a_medication_mentions.csv": {
+      "bytes": "2591519",
+      "final_path": "derived/final893/layer_a/layer_a_medication_mentions.csv",
+      "sha256": "17a97fb4a3e9d1ae64980a83d4544e0eddf2279b484f2dc30af518bab8dfd696",
+      "source_path": "derived/layer_a_medication_mentions.csv"
+    },
+    "layer_a/layer_a_pages.csv": {
+      "bytes": "328953",
+      "final_path": "derived/final893/layer_a/layer_a_pages.csv",
+      "sha256": "aea75158aea118c99dbbeaee33d93534e8df3816d00c080c8896c66a148f9887",
+      "source_path": "derived/layer_a_pages.csv"
+    },
+    "layer_b/layer_b_v1.csv": {
+      "bytes": "3002205",
+      "final_path": "derived/final893/layer_b/layer_b_v1.csv",
+      "sha256": "3a15695da5bc9303f2d6d21e2fb68c0fc70398e06280356c56d70dc5ae27f5e9",
+      "source_path": "derived/layer_b/layer_b_v1.csv"
+    },
+    "layer_b/layer_b_v1_1.csv": {
+      "bytes": "2596848",
+      "final_path": "derived/final893/layer_b/layer_b_v1_1.csv",
+      "sha256": "395bf2d3c6773b241c987fdee1eeea1fad2527dfc459c0765b94cafb8296cb4a",
+      "source_path": "derived/layer_b/layer_b_v1_1.csv"
+    },
+    "manifests/master_document_manifest.csv": {
+      "bytes": "455129",
+      "final_path": "derived/final893/manifests/master_document_manifest.csv",
+      "sha256": "897ed93a2ef127250f5b0e64617e5e4a7a3ab7367e6627a395f9d51e13065e89",
+      "source_path": "rebuild/manifests/master_document_manifest.csv"
+    },
+    "pipeline/stage7_smoke_results.csv": {
+      "bytes": "3263",
+      "final_path": "derived/final893/pipeline/stage7_smoke_results.csv",
+      "sha256": "c8d721b01af8df719075301a22100af9efaa192a47c4429804109651cc1987a2",
+      "source_path": "derived/pipeline/stage7_smoke_results.csv"
+    },
+    "pipeline/stage7_smoke_summary.json": {
+      "bytes": "1156",
+      "final_path": "derived/final893/pipeline/stage7_smoke_summary.json",
+      "sha256": "2ae57c5b4c096be3777043f3134e4ce2d5c3b3369a986ae109c907a51bf2edfb",
+      "source_path": "derived/pipeline/stage7_smoke_summary.json"
+    },
+    "ranking/ranked_candidates.csv": {
+      "bytes": "28074134",
+      "final_path": "derived/final893/ranking/ranked_candidates.csv",
+      "sha256": "26527cb900038360bb6531b61e237ff40826b29051bdaeb5351027c0a9bc7716",
+      "source_path": "derived/ranking/ranked_candidates.csv"
+    },
+    "ranking/ranking_summary.json": {
+      "bytes": "2190",
+      "final_path": "derived/final893/ranking/ranking_summary.json",
+      "sha256": "f02ae1c6c18c3844f8d4cc8b043d3a068a0c1bb31e8c61b342f7f9a6870a97c7",
+      "source_path": "derived/ranking/ranking_summary.json"
+    },
+    "reports/CANDIDATE_IDENTITY_NAMESPACE_AUDIT.md": {
+      "bytes": "4306",
+      "final_path": "derived/final893/reports/CANDIDATE_IDENTITY_NAMESPACE_AUDIT.md",
+      "sha256": "7df1a8994f3bbf78210d6debd900caae19e78ba25b7964027a47a8202f79b9fc",
+      "source_path": "rebuild/reports/CANDIDATE_IDENTITY_NAMESPACE_AUDIT.md"
+    },
+    "reports/FULL_DATASET_CONSISTENCY_AUDIT.md": {
+      "bytes": "3157",
+      "final_path": "derived/final893/reports/FULL_DATASET_CONSISTENCY_AUDIT.md",
+      "sha256": "960aa73690e144e3e2acec7b906cb378987e649c4d9241d61b5fdb6222c3eb70",
+      "source_path": "rebuild/reports/FULL_DATASET_CONSISTENCY_AUDIT.md"
+    },
+    "reports/STAGE1_CANONICAL_DATA_LAYER_REPORT.md": {
+      "bytes": "2509",
+      "final_path": "derived/final893/reports/STAGE1_CANONICAL_DATA_LAYER_REPORT.md",
+      "sha256": "c78256469ba6d36f3cfa5e280e0c5f3c3f73e74afd3bed38fc7fbd25d996095c",
+      "source_path": "rebuild/reports/STAGE1_CANONICAL_DATA_LAYER_REPORT.md"
+    },
+    "reports/STAGE2C_CANDIDATE_RETRIEVAL_REPORT.md": {
+      "bytes": "2509",
+      "final_path": "derived/final893/reports/STAGE2C_CANDIDATE_RETRIEVAL_REPORT.md",
+      "sha256": "05779dd008b2116d2ab6de0293594515b0cef3983b7a7ebc7c2d4b2f15ae5195",
+      "source_path": "rebuild/reports/STAGE2C_CANDIDATE_RETRIEVAL_REPORT.md"
+    },
+    "reports/STAGE4_CANDIDATE_RANKING_REPORT.md": {
+      "bytes": "1174",
+      "final_path": "derived/final893/reports/STAGE4_CANDIDATE_RANKING_REPORT.md",
+      "sha256": "edc635514a1518daadae14b092d619149bb64d594d332aee5ed7409b0b0df258",
+      "source_path": "rebuild/reports/STAGE4_CANDIDATE_RANKING_REPORT.md"
+    },
+    "reports/STAGE5_EVIDENCE_ASSESSMENT_REPORT.md": {
+      "bytes": "1473",
+      "final_path": "derived/final893/reports/STAGE5_EVIDENCE_ASSESSMENT_REPORT.md",
+      "sha256": "014b3f13ca60c2d26953bbe36a28facc69a14687dbea17e4a75a21fad83ec183",
+      "source_path": "rebuild/reports/STAGE5_EVIDENCE_ASSESSMENT_REPORT.md"
+    },
+    "reports/STAGE6_1_RESOLUTION_AUDIT_REPORT.md": {
+      "bytes": "2470",
+      "final_path": "derived/final893/reports/STAGE6_1_RESOLUTION_AUDIT_REPORT.md",
+      "sha256": "ea5cafafda35fb3ea3cde9823525a82d0b1188d9a48ec91ec3f88e0bbccc64cd",
+      "source_path": "rebuild/reports/STAGE6_1_RESOLUTION_AUDIT_REPORT.md"
+    },
+    "reports/STAGE6_VERIFICATION_REPORT.md": {
+      "bytes": "1653",
+      "final_path": "derived/final893/reports/STAGE6_VERIFICATION_REPORT.md",
+      "sha256": "5cac9614f405b627a63495f3abef467bf46cd65d3f11170d13ee830f1c1f1364",
+      "source_path": "rebuild/reports/STAGE6_VERIFICATION_REPORT.md"
+    },
+    "reports/STAGE7_E2E_SMOKE_TEST_REPORT.md": {
+      "bytes": "1172",
+      "final_path": "derived/final893/reports/STAGE7_E2E_SMOKE_TEST_REPORT.md",
+      "sha256": "d84bf159574106958812a825041c4ee97be1c45d6d0c9ddc7bb4aba141609141",
+      "source_path": "rebuild/reports/STAGE7_E2E_SMOKE_TEST_REPORT.md"
+    },
+    "retrieval/stage2c1_branch_traces.csv": {
+      "bytes": "106394436",
+      "final_path": "derived/final893/retrieval/stage2c1_branch_traces.csv",
+      "sha256": "b1e672f2502b16c5695e4f1f51f194122881962dd88768fb8bdca150a00c9aa8",
+      "source_path": "derived/retrieval/stage2c1_branch_traces.csv"
+    },
+    "retrieval/stage2c1_candidate_union.csv": {
+      "bytes": "54123731",
+      "final_path": "derived/final893/retrieval/stage2c1_candidate_union.csv",
+      "sha256": "4cde5423300a2e226ce3877ce08f8689d428a5e3013d554d7ea0f591f01a1466",
+      "source_path": "derived/retrieval/stage2c1_candidate_union.csv"
+    },
+    "retrieval/stage2c1_summary.json": {
+      "bytes": "2759",
+      "final_path": "derived/final893/retrieval/stage2c1_summary.json",
+      "sha256": "a553bc49783dbcafcfc0e1bacfa128fbaf3ccf8870ee013e90fedeb6f60251a8",
+      "source_path": "derived/retrieval/stage2c1_summary.json"
+    },
+    "retrieval/stage2c_branch_traces.csv": {
+      "bytes": "83025109",
+      "final_path": "derived/final893/retrieval/stage2c_branch_traces.csv",
+      "sha256": "94db5d4274817280f1f48578eef1bf32012cdf3c7e2b8582a39c50f6f69213aa",
+      "source_path": "derived/retrieval/stage2c_branch_traces.csv"
+    },
+    "retrieval/stage2c_summary.json": {
+      "bytes": "6696",
+      "final_path": "derived/final893/retrieval/stage2c_summary.json",
+      "sha256": "31a398963dc6eafb42dc6d4f6497669fcce69f2c6edf07eb617b8b363a4fd74a",
+      "source_path": "derived/retrieval/stage2c_summary.json"
+    },
+    "verification/verification_results.csv": {
+      "bytes": "1126413",
+      "final_path": "derived/final893/verification/verification_results.csv",
+      "sha256": "892666efd87bfdc26a02e9a5163e5a956cd36309094a2b312a7e07b2cdb2939a",
+      "source_path": "derived/verification/verification_results.csv"
+    },
+    "verification/verification_results_v1_1.csv": {
+      "bytes": "1148539",
+      "final_path": "derived/final893/verification/verification_results_v1_1.csv",
+      "sha256": "dbd8117967ee9ef8a3623fb625a2cb631fd27936f35b69f2f963a29695a76df4",
+      "source_path": "derived/verification/verification_results_v1_1.csv"
+    },
+    "verification/verification_summary.json": {
+      "bytes": "1978",
+      "final_path": "derived/final893/verification/verification_summary.json",
+      "sha256": "8e28a9d71f46ea954836160a4e7f50f007825b8325847aac1a08c23dd614639f",
+      "source_path": "derived/verification/verification_summary.json"
+    },
+    "verification/verification_summary_v1_1.json": {
+      "bytes": "2404",
+      "final_path": "derived/final893/verification/verification_summary_v1_1.json",
+      "sha256": "f008b4a22a13e2cbe32c6495fb6a4a284ffa4239a188f8808936a3e002a56afa",
+      "source_path": "derived/verification/verification_summary_v1_1.json"
+    }
+  },
+  "blockers": [],
+  "brand_family_provenance_valid_rows": 2411,
+  "counts": {
+    "accepted_brand_family_provenance_rows": 2411,
+    "anonymized": 893,
+    "evidence_rows": 60540,
+    "ground_truth_json": 893,
+    "layer_a_documents": 893,
+    "layer_a_mentions": 3027,
+    "layer_a_pages": 893,
+    "layer_b_rows_v1_1": 3027,
+    "manifest_rows": 893,
+    "pending_prescriptions": 156,
+    "ranked_candidate_rows": 60540,
+    "raw": 893,
+    "stage2c1_union_rows": 181252,
+    "stage2c_trace_rows": 238970,
+    "stage7_smoke_mentions": 20,
+    "verification_rows_v1_1": 3027
+  },
+  "final893_summary_sha256": "708ef606f17eddea803501cde77c9e8e1d1edb49077e08440eabc560fe0ce09c",
+  "final_dataset": "FINAL_893",
+  "frozen_historical_outputs_modified": false,
+  "generated_at": "2026-08-29T13:29:34.787982+00:00",
+  "integrity_audit_report": "rebuild/reports/FINAL_893_INTEGRITY_AUDIT.md",
+  "manifest_path": "configs/frozen/evaluation_final_893_manifest.json",
+  "manifest_sha256": "6de3a81fa3b65745c04f56a62b0804c28cc49d3646866e90f627f575ce632a3b",
+  "paid_api_calls_performed": false,
+  "pending_classification_counts": {
+    "new_p868_p893": 26,
+    "recovered_previously_missing": 130
+  },
+  "qwen_judge_performed": false,
+  "stage2c1_ready_for_ranking": true,
+  "stage2c_ready_for_ranking": true,
+  "stage4_ready_for_evidence": true,
+  "stage5_ready_for_verification": true,
+  "stage6_1_decision_counts": {
+    "ACCEPT": 2803,
+    "HUMAN_REVIEW": 223,
+    "NIL": 1
+  },
+  "stage6_1_resolution_counts": {
+    "CLINICAL_FORMULATION": 1,
+    "EXACT_LOCAL_PRODUCT": 104,
+    "INGREDIENT_ONLY": 393,
+    "LOCAL_BRAND_FAMILY": 2519,
+    "NO_SUPPORTED_RESOLUTION": 1,
+    "TERMINOLOGY_ONLY": 9
+  },
+  "stage7_smoke_ready": true
+}

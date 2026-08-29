@@ -1,0 +1,7 @@
+assessment,value,N,percentage,denominator
+mapping_assessment,SUPPORTED,558,73.2,762
+mapping_assessment,CONTRADICTED,109,14.3,762
+mapping_assessment,INSUFFICIENT_EVIDENCE,95,12.5,762
+pipeline_decision_assessment,AGREE,562,73.8,762
+pipeline_decision_assessment,DISAGREE,200,26.2,762
+pipeline_decision_assessment,UNCERTAIN,0,0.0,762
