@@ -1,7 +1,6 @@
 {
   "benchmark_artifact_hash_sha256": "344fea173dc3bef480f9d6c98099f31d744425aa6b8977838bf0ea417cdf66d3",
   "branch": "release/paper-submission",
-  "commit_note": "Refresh release_manifest.json after committing to replace UNCOMMITTED_UNBORN_HEAD.",
   "figure_manifest_hash_sha256": "df9758bfcf0868585eeaffa59df4677e66c1eb1f1d044ac0aca36fe692c8f9fb",
   "final_evaluation_snapshot": "FINAL_893",
   "final_evaluation_snapshot_hash_sha256": "f04b106cce704430b5971e30fb70152522f3df1f4a25ea3a1cb2dc8f2b87c292",
@@ -40,7 +39,8 @@
       "NIL": 1
     }
   },
-  "git_commit": "UNCOMMITTED_UNBORN_HEAD",
+  "git_commit": "e7ee19b2de55689c9d14b6817c55b232ade5d8b9",
+  "git_commit_semantics": "Commit containing the final public release artifacts before the manifest-hash refresh commit; final pushed HEAD may be the subsequent manifest refresh commit.",
   "master_document_manifest_hash_sha256": "897ed93a2ef127250f5b0e64617e5e4a7a3ab7367e6627a395f9d51e13065e89",
   "paper_claim_registry_hash_sha256": "18d9ab936cc483e7da65b2b5768d58cd3b307dbcf8d61230d8bb79679e2dfd05",
   "paper_writer_bundle_manifest_hash_sha256": "ff5ba920919202c53d95c44c5c6dfd8476e02c019374bde2df31801619baf755",
@@ -591,7 +591,7 @@
     "tests/test_trend_analysis.py": "d26b9d8a8c15b8ebae98e5ca01a9c6ec8fcd655d78e82ba913c5f2100dcc2666",
     "tests/test_verification.py": "aa442b882f66d0e17fa8b13d629e9a0997ae33104a182469f1e71cab64e8a8cb"
   },
-  "public_candidate_file_count": 538,
+  "public_candidate_file_count_excluding_release_manifest": 538,
   "qwen762_protocol_hash_sha256": "04237aa2276f4da92c2502df950faa1a13f704b756117a42e232bb842728e0b5",
   "qwen762_result_hash_sha256_private_source_not_released": "d89b4496c48f25b5776494d5affc6db8f7231637b0c375b3d34b7deedb9a782b",
   "release_gates": {
@@ -602,13 +602,13 @@
     "FINAL_893_READY": true,
     "GITHUB_PUSHED": false,
     "PRIVATE_DATA_SCAN_PASS": true,
-    "PUBLIC_GITHUB_RELEASE_READY": false,
+    "PUBLIC_GITHUB_RELEASE_READY": true,
     "README_PASS": true,
     "REPRODUCTION_PASS": true,
     "SECRET_SCAN_PASS": true,
     "TESTS_PASS": true
   },
-  "release_timestamp": "2026-08-29T13:53:55.243522+00:00",
+  "release_timestamp": "2026-08-29T13:55:41.782253+00:00",
   "repository_url": "https://github.com/DakshSammi/AgenticMedNorm-IN",
   "table_manifest_hash_sha256": "4089b8dd27959a1d8763c9e505724f63c236da818e65b3a203ad02e6f9eac831",
   "tests_status": {
