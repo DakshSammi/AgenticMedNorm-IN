@@ -1,0 +1,6860 @@
+[
+  {
+    "mention_id": "AMNIN_RX_0001_M001",
+    "prescription_id": "AMNIN_RX_0001",
+    "raw_medication_text": "Tab Thyronorm",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0001_M002",
+    "prescription_id": "AMNIN_RX_0001",
+    "raw_medication_text": "Tab Iriscofer XT",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0001_M003",
+    "prescription_id": "AMNIN_RX_0001",
+    "raw_medication_text": "Tab Caliska-CM",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0001_M004",
+    "prescription_id": "AMNIN_RX_0001",
+    "raw_medication_text": "Tab Autrin-MR [partially unclear]",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD [partially unclear]"
+  },
+  {
+    "mention_id": "AMNIN_RX_0044_M001",
+    "prescription_id": "AMNIN_RX_0044",
+    "raw_medication_text": "Tab Dytor",
+    "visible_strength": "5mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0044_M002",
+    "prescription_id": "AMNIN_RX_0044",
+    "raw_medication_text": "Tab Telma-CN [partially unclear]",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "oral",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0044_M003",
+    "prescription_id": "AMNIN_RX_0044",
+    "raw_medication_text": "Tab Ecosprin AV",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "oral",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0044_M004",
+    "prescription_id": "AMNIN_RX_0044",
+    "raw_medication_text": "Tab Wysolone / Wycortone [unclear]",
+    "visible_strength": "20mg",
+    "visible_form": "tablet",
+    "visible_route": "oral",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0044_M005",
+    "prescription_id": "AMNIN_RX_0044",
+    "raw_medication_text": "Tab Isonibride / Isoniazid [unclear]",
+    "visible_strength": "300mg",
+    "visible_form": "tablet",
+    "visible_route": "oral",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0044_M006",
+    "prescription_id": "AMNIN_RX_0044",
+    "raw_medication_text": "Cap Cysad / Cysal-D [unclear]",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "oral",
+    "visible_frequency": "OD [partially unclear]"
+  },
+  {
+    "mention_id": "AMNIN_RX_0044_M007",
+    "prescription_id": "AMNIN_RX_0044",
+    "raw_medication_text": "Tab Becadom [unclear]",
+    "visible_strength": "10mg",
+    "visible_form": "tablet",
+    "visible_route": "oral",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0050_M001",
+    "prescription_id": "AMNIN_RX_0050",
+    "raw_medication_text": "Tab ACITHP MR [unclear]",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "oral",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0050_M002",
+    "prescription_id": "AMNIN_RX_0050",
+    "raw_medication_text": "Tab Zetrole DSR [unclear]",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "oral",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0050_M003",
+    "prescription_id": "AMNIN_RX_0050",
+    "raw_medication_text": "Tab Ipalin",
+    "visible_strength": "75mg",
+    "visible_form": "tablet",
+    "visible_route": "oral",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0050_M004",
+    "prescription_id": "AMNIN_RX_0050",
+    "raw_medication_text": "Escoplast CEC [unclear]",
+    "visible_strength": "",
+    "visible_form": "",
+    "visible_route": "local application [unclear]",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0057_M001",
+    "prescription_id": "AMNIN_RX_0057",
+    "raw_medication_text": "Pantoprazole infusion",
+    "visible_strength": "",
+    "visible_form": "",
+    "visible_route": "IV",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0057_M002",
+    "prescription_id": "AMNIN_RX_0057",
+    "raw_medication_text": "Inj PAN",
+    "visible_strength": "80mg",
+    "visible_form": "injection",
+    "visible_route": "IV stat",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0057_M003",
+    "prescription_id": "AMNIN_RX_0057",
+    "raw_medication_text": "Inj Emeset",
+    "visible_strength": "4mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0057_M004",
+    "prescription_id": "AMNIN_RX_0057",
+    "raw_medication_text": "Inj Monocef",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0057_M005",
+    "prescription_id": "AMNIN_RX_0057",
+    "raw_medication_text": "Inj Metrogyl",
+    "visible_strength": "100ml",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0057_M006",
+    "prescription_id": "AMNIN_RX_0057",
+    "raw_medication_text": "Syp Sucralfate",
+    "visible_strength": "",
+    "visible_form": "syrup",
+    "visible_route": "PO",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0057_M007",
+    "prescription_id": "AMNIN_RX_0057",
+    "raw_medication_text": "Inj MOL",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0057_M008",
+    "prescription_id": "AMNIN_RX_0057",
+    "raw_medication_text": "Inj PCTM",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0067_M001",
+    "prescription_id": "AMNIN_RX_0067",
+    "raw_medication_text": "Tab Olox-OZ",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0067_M002",
+    "prescription_id": "AMNIN_RX_0067",
+    "raw_medication_text": "Tab Ondem-MD",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0067_M003",
+    "prescription_id": "AMNIN_RX_0067",
+    "raw_medication_text": "Tab Ugra 200 mg",
+    "visible_strength": "200mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0067_M004",
+    "prescription_id": "AMNIN_RX_0067",
+    "raw_medication_text": "Tab Drotin-DS",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0067_M005",
+    "prescription_id": "AMNIN_RX_0067",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0067_M006",
+    "prescription_id": "AMNIN_RX_0067",
+    "raw_medication_text": "ORS",
+    "visible_strength": "",
+    "visible_form": "",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0067_M007",
+    "prescription_id": "AMNIN_RX_0067",
+    "raw_medication_text": "Ringer's Lactate",
+    "visible_strength": "",
+    "visible_form": "",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0070_M001",
+    "prescription_id": "AMNIN_RX_0070",
+    "raw_medication_text": "Inj Monocef",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0070_M002",
+    "prescription_id": "AMNIN_RX_0070",
+    "raw_medication_text": "Inj Pan",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0070_M003",
+    "prescription_id": "AMNIN_RX_0070",
+    "raw_medication_text": "Inj Emset",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0070_M004",
+    "prescription_id": "AMNIN_RX_0070",
+    "raw_medication_text": "Tab Carca",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0070_M005",
+    "prescription_id": "AMNIN_RX_0070",
+    "raw_medication_text": "Tab Aldactone",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0070_M006",
+    "prescription_id": "AMNIN_RX_0070",
+    "raw_medication_text": "Syr Looz",
+    "visible_strength": "",
+    "visible_form": "bottle",
+    "visible_route": "PO",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0070_M007",
+    "prescription_id": "AMNIN_RX_0070",
+    "raw_medication_text": "Tab TAF",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0070_M008",
+    "prescription_id": "AMNIN_RX_0070",
+    "raw_medication_text": "Inj Optineuron",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0089_M001",
+    "prescription_id": "AMNIN_RX_0089",
+    "raw_medication_text": "Ointment (illegible)",
+    "visible_strength": "",
+    "visible_form": "ointment",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0089_M002",
+    "prescription_id": "AMNIN_RX_0089",
+    "raw_medication_text": "Chlorhexidine mouthwash",
+    "visible_strength": "",
+    "visible_form": "cream",
+    "visible_route": "",
+    "visible_frequency": "TDS (appears)"
+  },
+  {
+    "mention_id": "AMNIN_RX_0089_M003",
+    "prescription_id": "AMNIN_RX_0089",
+    "raw_medication_text": "ACTIP (handwriting unclear)",
+    "visible_strength": "",
+    "visible_form": "",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0089_M004",
+    "prescription_id": "AMNIN_RX_0089",
+    "raw_medication_text": "Ipalmin (handwriting unclear)",
+    "visible_strength": "",
+    "visible_form": "",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0089_M005",
+    "prescription_id": "AMNIN_RX_0089",
+    "raw_medication_text": "Ecosprin Gold",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0089_M006",
+    "prescription_id": "AMNIN_RX_0089",
+    "raw_medication_text": "Levipil / Leviprex (handwriting unclear)",
+    "visible_strength": "",
+    "visible_form": "",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0089_M007",
+    "prescription_id": "AMNIN_RX_0089",
+    "raw_medication_text": "One additional tablet (illegible)",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "Not readable"
+  },
+  {
+    "mention_id": "AMNIN_RX_0123_M001",
+    "prescription_id": "AMNIN_RX_0123",
+    "raw_medication_text": "TAB BILAZEST-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0123_M002",
+    "prescription_id": "AMNIN_RX_0123",
+    "raw_medication_text": "TAB DOLO 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0123_M003",
+    "prescription_id": "AMNIN_RX_0123",
+    "raw_medication_text": "TAB ABFLO-N",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0123_M004",
+    "prescription_id": "AMNIN_RX_0123",
+    "raw_medication_text": "TAB AUGMENTIN DUO 625",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0128_M001",
+    "prescription_id": "AMNIN_RX_0128",
+    "raw_medication_text": "CAP RAZOLE DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0128_M002",
+    "prescription_id": "AMNIN_RX_0128",
+    "raw_medication_text": "TAB Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0128_M003",
+    "prescription_id": "AMNIN_RX_0128",
+    "raw_medication_text": "TAB Azef 500 mg",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0128_M004",
+    "prescription_id": "AMNIN_RX_0128",
+    "raw_medication_text": "TAB Levocem-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0146_M001",
+    "prescription_id": "AMNIN_RX_0146",
+    "raw_medication_text": "T. Drotin-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0146_M002",
+    "prescription_id": "AMNIN_RX_0146",
+    "raw_medication_text": "Syp Alkasa",
+    "visible_strength": "15ml",
+    "visible_form": "syrup",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0146_M003",
+    "prescription_id": "AMNIN_RX_0146",
+    "raw_medication_text": "T. Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0146_M004",
+    "prescription_id": "AMNIN_RX_0146",
+    "raw_medication_text": "T. Fazi-3 kit",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0147_M001",
+    "prescription_id": "AMNIN_RX_0147",
+    "raw_medication_text": "Sachet Fosfomycin 3 g",
+    "visible_strength": "3g",
+    "visible_form": "",
+    "visible_route": "P/O",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0147_M002",
+    "prescription_id": "AMNIN_RX_0147",
+    "raw_medication_text": "Syp K-MAC UTI",
+    "visible_strength": "",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0147_M003",
+    "prescription_id": "AMNIN_RX_0147",
+    "raw_medication_text": "TAB Drotin M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0147_M004",
+    "prescription_id": "AMNIN_RX_0147",
+    "raw_medication_text": "TAB Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0148_M001",
+    "prescription_id": "AMNIN_RX_0148",
+    "raw_medication_text": "TAB AUGMENTIN DUO 625 mg",
+    "visible_strength": "625mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0148_M002",
+    "prescription_id": "AMNIN_RX_0148",
+    "raw_medication_text": "TAB AZEE 500 mg",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0148_M003",
+    "prescription_id": "AMNIN_RX_0148",
+    "raw_medication_text": "TAB BILAZEST-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0148_M004",
+    "prescription_id": "AMNIN_RX_0148",
+    "raw_medication_text": "TAB DOLO 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0148_M005",
+    "prescription_id": "AMNIN_RX_0148",
+    "raw_medication_text": "TAB IRISCOUT OD",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0149_M001",
+    "prescription_id": "AMNIN_RX_0149",
+    "raw_medication_text": "TAB DOLO 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0149_M002",
+    "prescription_id": "AMNIN_RX_0149",
+    "raw_medication_text": "TAB EBAST-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0149_M003",
+    "prescription_id": "AMNIN_RX_0149",
+    "raw_medication_text": "TAB SUPRACAL 1 g",
+    "visible_strength": "1g",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0149_M004",
+    "prescription_id": "AMNIN_RX_0149",
+    "raw_medication_text": "CMC eye drops",
+    "visible_strength": "",
+    "visible_form": "drops",
+    "visible_route": "",
+    "visible_frequency": "4 hrly"
+  },
+  {
+    "mention_id": "AMNIN_RX_0149_M005",
+    "prescription_id": "AMNIN_RX_0149",
+    "raw_medication_text": "Syp APTIVATE",
+    "visible_strength": "",
+    "visible_form": "syrup",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0150_M001",
+    "prescription_id": "AMNIN_RX_0150",
+    "raw_medication_text": "CAP. RAZO-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0150_M002",
+    "prescription_id": "AMNIN_RX_0150",
+    "raw_medication_text": "SYP. ALKASOL",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0150_M003",
+    "prescription_id": "AMNIN_RX_0150",
+    "raw_medication_text": "TAB. DOLO 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0150_M004",
+    "prescription_id": "AMNIN_RX_0150",
+    "raw_medication_text": "SYP. CREMAFFIN",
+    "visible_strength": "15ml",
+    "visible_form": "syrup",
+    "visible_route": "P/O",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0002_M001",
+    "prescription_id": "AMNIN_RX_0002",
+    "raw_medication_text": "Syp. Livol",
+    "visible_strength": "20ml",
+    "visible_form": "syrup",
+    "visible_route": "P/O",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0002_M002",
+    "prescription_id": "AMNIN_RX_0002",
+    "raw_medication_text": "Tab. Razo D",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0002_M003",
+    "prescription_id": "AMNIN_RX_0002",
+    "raw_medication_text": "Tab. Asytip SP",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0003_M001",
+    "prescription_id": "AMNIN_RX_0003",
+    "raw_medication_text": "TAB CILNIDIPINE",
+    "visible_strength": "10mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0003_M002",
+    "prescription_id": "AMNIN_RX_0003",
+    "raw_medication_text": "TAB METXL",
+    "visible_strength": "12.5mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0003_M003",
+    "prescription_id": "AMNIN_RX_0003",
+    "raw_medication_text": "TAB SHELCAL",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0004_M001",
+    "prescription_id": "AMNIN_RX_0004",
+    "raw_medication_text": "TAB TELMA AM 40/5",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0004_M002",
+    "prescription_id": "AMNIN_RX_0004",
+    "raw_medication_text": "TAB METPURE XL 12.5 mg",
+    "visible_strength": "12.5mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0004_M003",
+    "prescription_id": "AMNIN_RX_0004",
+    "raw_medication_text": "CAP CYRA-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0004_M004",
+    "prescription_id": "AMNIN_RX_0004",
+    "raw_medication_text": "CAP CORUS",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0004_M005",
+    "prescription_id": "AMNIN_RX_0004",
+    "raw_medication_text": "TAB VERTIN 16 mg",
+    "visible_strength": "16mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0005_M001",
+    "prescription_id": "AMNIN_RX_0005",
+    "raw_medication_text": "Cap. Cyra-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "oral",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0005_M002",
+    "prescription_id": "AMNIN_RX_0005",
+    "raw_medication_text": "Syp. Mucaine",
+    "visible_strength": "",
+    "visible_form": "syrup",
+    "visible_route": "oral",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0005_M003",
+    "prescription_id": "AMNIN_RX_0005",
+    "raw_medication_text": "Tb. Cobalx CZS",
+    "visible_strength": "",
+    "visible_form": "",
+    "visible_route": "oral",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0006_M001",
+    "prescription_id": "AMNIN_RX_0006",
+    "raw_medication_text": "T. RADIFRAC PLUS",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0006_M002",
+    "prescription_id": "AMNIN_RX_0006",
+    "raw_medication_text": "T. CALISKA-DS",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0006_M003",
+    "prescription_id": "AMNIN_RX_0006",
+    "raw_medication_text": "Syp DHOOPFLO-D3",
+    "visible_strength": "",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "once weekly"
+  },
+  {
+    "mention_id": "AMNIN_RX_0006_M004",
+    "prescription_id": "AMNIN_RX_0006",
+    "raw_medication_text": "T. NURIVITA-D3",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0006_M005",
+    "prescription_id": "AMNIN_RX_0006",
+    "raw_medication_text": "T. ALTRADAY",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0007_M001",
+    "prescription_id": "AMNIN_RX_0007",
+    "raw_medication_text": "TAB CILNIDIPINE",
+    "visible_strength": "15mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0007_M002",
+    "prescription_id": "AMNIN_RX_0007",
+    "raw_medication_text": "TAB ARKAMINE",
+    "visible_strength": "0.2mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0007_M003",
+    "prescription_id": "AMNIN_RX_0007",
+    "raw_medication_text": "TAB MINIPRESS XL",
+    "visible_strength": "5mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0007_M004",
+    "prescription_id": "AMNIN_RX_0007",
+    "raw_medication_text": "TAB SODISAVE",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0007_M005",
+    "prescription_id": "AMNIN_RX_0007",
+    "raw_medication_text": "TAB DAPA",
+    "visible_strength": "10mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0007_M006",
+    "prescription_id": "AMNIN_RX_0007",
+    "raw_medication_text": "TAB SHELCAL-CT",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0007_M007",
+    "prescription_id": "AMNIN_RX_0007",
+    "raw_medication_text": "CAP UPRISE D3 60K",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "once a week"
+  },
+  {
+    "mention_id": "AMNIN_RX_0007_M008",
+    "prescription_id": "AMNIN_RX_0007",
+    "raw_medication_text": "TAB SEVELAMER 800 mg",
+    "visible_strength": "800mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0007_M009",
+    "prescription_id": "AMNIN_RX_0007",
+    "raw_medication_text": "TAB LEVOCEN Z",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0007_M010",
+    "prescription_id": "AMNIN_RX_0007",
+    "raw_medication_text": "TAB NEUROBION FORTE",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0007_M011",
+    "prescription_id": "AMNIN_RX_0007",
+    "raw_medication_text": "KABIPRO protein powder",
+    "visible_strength": "",
+    "visible_form": "powder",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0008_M001",
+    "prescription_id": "AMNIN_RX_0008",
+    "raw_medication_text": "T. Radifree plus",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0008_M002",
+    "prescription_id": "AMNIN_RX_0008",
+    "raw_medication_text": "T. CALISKA DS",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0008_M003",
+    "prescription_id": "AMNIN_RX_0008",
+    "raw_medication_text": "T. NURAVITA D3",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0008_M004",
+    "prescription_id": "AMNIN_RX_0008",
+    "raw_medication_text": "Syp Dhoop flo D3",
+    "visible_strength": "",
+    "visible_form": "syrup",
+    "visible_route": "P/O",
+    "visible_frequency": "once weekly"
+  },
+  {
+    "mention_id": "AMNIN_RX_0008_M005",
+    "prescription_id": "AMNIN_RX_0008",
+    "raw_medication_text": "T. Altraday",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0009_M001",
+    "prescription_id": "AMNIN_RX_0009",
+    "raw_medication_text": "TAB CILNIDIPINE",
+    "visible_strength": "15mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0009_M002",
+    "prescription_id": "AMNIN_RX_0009",
+    "raw_medication_text": "TAB ARKAMINE",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0009_M003",
+    "prescription_id": "AMNIN_RX_0009",
+    "raw_medication_text": "TAB MINIPRESS XL",
+    "visible_strength": "5mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0009_M004",
+    "prescription_id": "AMNIN_RX_0009",
+    "raw_medication_text": "TAB SODISAVE",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0009_M005",
+    "prescription_id": "AMNIN_RX_0009",
+    "raw_medication_text": "TAB SHELCAL-CZ",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0009_M006",
+    "prescription_id": "AMNIN_RX_0009",
+    "raw_medication_text": "CAP UPRISE D3 60K",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "once a week"
+  },
+  {
+    "mention_id": "AMNIN_RX_0009_M007",
+    "prescription_id": "AMNIN_RX_0009",
+    "raw_medication_text": "TAB SEVELAMER 800 mg",
+    "visible_strength": "800mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0009_M008",
+    "prescription_id": "AMNIN_RX_0009",
+    "raw_medication_text": "TAB LEVOCEN Z",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0009_M009",
+    "prescription_id": "AMNIN_RX_0009",
+    "raw_medication_text": "KABI-PRO protein powder",
+    "visible_strength": "",
+    "visible_form": "",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0010_M001",
+    "prescription_id": "AMNIN_RX_0010",
+    "raw_medication_text": "TAB TELMA AM 40/5",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0010_M002",
+    "prescription_id": "AMNIN_RX_0010",
+    "raw_medication_text": "TAB METPURE XL 12.5 mg",
+    "visible_strength": "12.5mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0010_M003",
+    "prescription_id": "AMNIN_RX_0010",
+    "raw_medication_text": "CAP CYRA-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0010_M004",
+    "prescription_id": "AMNIN_RX_0010",
+    "raw_medication_text": "CAP CORUS",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0010_M005",
+    "prescription_id": "AMNIN_RX_0010",
+    "raw_medication_text": "TAB VERTIN 16 mg",
+    "visible_strength": "16mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0011_M001",
+    "prescription_id": "AMNIN_RX_0011",
+    "raw_medication_text": "CAP DOXY",
+    "visible_strength": "300mg",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0011_M002",
+    "prescription_id": "AMNIN_RX_0011",
+    "raw_medication_text": "CAP NORFLOX-OZ",
+    "visible_strength": "100mg",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0011_M003",
+    "prescription_id": "AMNIN_RX_0011",
+    "raw_medication_text": "CAP BIFILAC-HP",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0011_M004",
+    "prescription_id": "AMNIN_RX_0011",
+    "raw_medication_text": "CAP REDOTIL 100 mg",
+    "visible_strength": "100mg",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0011_M005",
+    "prescription_id": "AMNIN_RX_0011",
+    "raw_medication_text": "TAB TENOFOVIR ALAFENAMIDE",
+    "visible_strength": "25mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0012_M001",
+    "prescription_id": "AMNIN_RX_0012",
+    "raw_medication_text": "TAB AUGMENTIN DUO 625",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0012_M002",
+    "prescription_id": "AMNIN_RX_0012",
+    "raw_medication_text": "TAB DOLO 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0012_M003",
+    "prescription_id": "AMNIN_RX_0012",
+    "raw_medication_text": "TAB BILAZEST-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0012_M004",
+    "prescription_id": "AMNIN_RX_0012",
+    "raw_medication_text": "TAB ABFLO-N",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0013_M001",
+    "prescription_id": "AMNIN_RX_0013",
+    "raw_medication_text": "TAB LINAKA-M ER 5/500",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0013_M002",
+    "prescription_id": "AMNIN_RX_0013",
+    "raw_medication_text": "TAB AMARYL 2 mg",
+    "visible_strength": "2mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0013_M003",
+    "prescription_id": "AMNIN_RX_0013",
+    "raw_medication_text": "TAB TELMA 20 mg",
+    "visible_strength": "20mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0013_M004",
+    "prescription_id": "AMNIN_RX_0013",
+    "raw_medication_text": "TAB ABFLO-N",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0013_M005",
+    "prescription_id": "AMNIN_RX_0013",
+    "raw_medication_text": "TAB AUGMENTIN DUO 625 mg",
+    "visible_strength": "625mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0013_M006",
+    "prescription_id": "AMNIN_RX_0013",
+    "raw_medication_text": "CAP NEUROKIND NEXT",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0014_M001",
+    "prescription_id": "AMNIN_RX_0014",
+    "raw_medication_text": "T. Neurobion Forte",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0014_M002",
+    "prescription_id": "AMNIN_RX_0014",
+    "raw_medication_text": "T. Shelcal CT",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0014_M003",
+    "prescription_id": "AMNIN_RX_0014",
+    "raw_medication_text": "Cap Uprise D3 60K",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "once a week"
+  },
+  {
+    "mention_id": "AMNIN_RX_0015_M001",
+    "prescription_id": "AMNIN_RX_0015",
+    "raw_medication_text": "TAB FLUCONAZOLE 400 mg",
+    "visible_strength": "400mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0015_M002",
+    "prescription_id": "AMNIN_RX_0015",
+    "raw_medication_text": "Fluconazole 200 mg",
+    "visible_strength": "200mg",
+    "visible_form": "",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0015_M003",
+    "prescription_id": "AMNIN_RX_0015",
+    "raw_medication_text": "TAB OROFER-XT",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0016_M001",
+    "prescription_id": "AMNIN_RX_0016",
+    "raw_medication_text": "Tab Me-12",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0016_M002",
+    "prescription_id": "AMNIN_RX_0016",
+    "raw_medication_text": "Cap Uprise D3",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "1 cap/week"
+  },
+  {
+    "mention_id": "AMNIN_RX_0016_M003",
+    "prescription_id": "AMNIN_RX_0016",
+    "raw_medication_text": "Tab Hairbless",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0016_M004",
+    "prescription_id": "AMNIN_RX_0016",
+    "raw_medication_text": "Morr Pro Gold (5%) serum",
+    "visible_strength": "1ml|5%",
+    "visible_form": "",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0017_M001",
+    "prescription_id": "AMNIN_RX_0017",
+    "raw_medication_text": "TAB DOLO 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0017_M002",
+    "prescription_id": "AMNIN_RX_0017",
+    "raw_medication_text": "TAB TRISCOVIT OD",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0017_M003",
+    "prescription_id": "AMNIN_RX_0017",
+    "raw_medication_text": "SYP ALKASOL",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0017_M004",
+    "prescription_id": "AMNIN_RX_0017",
+    "raw_medication_text": "SACHET FOSFOMYCIN 3 gm",
+    "visible_strength": "3g",
+    "visible_form": "",
+    "visible_route": "P/O",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0017_M005",
+    "prescription_id": "AMNIN_RX_0017",
+    "raw_medication_text": "CAP CYRA-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0018_M001",
+    "prescription_id": "AMNIN_RX_0018",
+    "raw_medication_text": "Cap CYRA-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0018_M002",
+    "prescription_id": "AMNIN_RX_0018",
+    "raw_medication_text": "ASCORIL-D (SYP)",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0018_M003",
+    "prescription_id": "AMNIN_RX_0018",
+    "raw_medication_text": "T. Montair LC",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0019_M001",
+    "prescription_id": "AMNIN_RX_0019",
+    "raw_medication_text": "T. Naxdom 500 mg",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0019_M002",
+    "prescription_id": "AMNIN_RX_0019",
+    "raw_medication_text": "Cap Razo-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0019_M003",
+    "prescription_id": "AMNIN_RX_0019",
+    "raw_medication_text": "Syp Looz",
+    "visible_strength": "15ml",
+    "visible_form": "syrup",
+    "visible_route": "P/O",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0019_M004",
+    "prescription_id": "AMNIN_RX_0019",
+    "raw_medication_text": "T. Emset",
+    "visible_strength": "4mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0020_M001",
+    "prescription_id": "AMNIN_RX_0020",
+    "raw_medication_text": "Syp K Mac UTI",
+    "visible_strength": "",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0020_M002",
+    "prescription_id": "AMNIN_RX_0020",
+    "raw_medication_text": "Tab AMRIZOL DSR",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0020_M003",
+    "prescription_id": "AMNIN_RX_0020",
+    "raw_medication_text": "Sachet Fosfomycin 3 g",
+    "visible_strength": "3g",
+    "visible_form": "",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0020_M004",
+    "prescription_id": "AMNIN_RX_0020",
+    "raw_medication_text": "T. Caloshine",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0021_M001",
+    "prescription_id": "AMNIN_RX_0021",
+    "raw_medication_text": "CAP IRAZOLE DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0021_M002",
+    "prescription_id": "AMNIN_RX_0021",
+    "raw_medication_text": "TAB DROTIN-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0021_M003",
+    "prescription_id": "AMNIN_RX_0021",
+    "raw_medication_text": "TAB NEUROBION FORTE",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0022_M001",
+    "prescription_id": "AMNIN_RX_0022",
+    "raw_medication_text": "CAP BIFILAC HP",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0022_M002",
+    "prescription_id": "AMNIN_RX_0022",
+    "raw_medication_text": "TAB DROTIN-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0023_M001",
+    "prescription_id": "AMNIN_RX_0023",
+    "raw_medication_text": "TAB ENTAVIR",
+    "visible_strength": "0.5mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0023_M002",
+    "prescription_id": "AMNIN_RX_0023",
+    "raw_medication_text": "TAB ACTIL-SP",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0023_M003",
+    "prescription_id": "AMNIN_RX_0023",
+    "raw_medication_text": "OINT ESCIOFAST GEL",
+    "visible_strength": "",
+    "visible_form": "gel",
+    "visible_route": "L/A",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0023_M004",
+    "prescription_id": "AMNIN_RX_0023",
+    "raw_medication_text": "TAB SURACAL",
+    "visible_strength": "1g",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0023_M005",
+    "prescription_id": "AMNIN_RX_0023",
+    "raw_medication_text": "CAP UPRISE D3",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "once a week"
+  },
+  {
+    "mention_id": "AMNIN_RX_0024_M001",
+    "prescription_id": "AMNIN_RX_0024",
+    "raw_medication_text": "TAB TRAMADOL",
+    "visible_strength": "100mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0024_M002",
+    "prescription_id": "AMNIN_RX_0024",
+    "raw_medication_text": "TAB ONDEM-MD",
+    "visible_strength": "4mg",
+    "visible_form": "tablet",
+    "visible_route": "S/L",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0025_M001",
+    "prescription_id": "AMNIN_RX_0025",
+    "raw_medication_text": "SYP CREAMAFFIN PLUS",
+    "visible_strength": "15ml",
+    "visible_form": "syrup",
+    "visible_route": "P/O",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0025_M002",
+    "prescription_id": "AMNIN_RX_0025",
+    "raw_medication_text": "CAP BIFILAC HP",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0025_M003",
+    "prescription_id": "AMNIN_RX_0025",
+    "raw_medication_text": "CAP RAZO-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0025_M004",
+    "prescription_id": "AMNIN_RX_0025",
+    "raw_medication_text": "TAB SHELCAL CT",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0025_M005",
+    "prescription_id": "AMNIN_RX_0025",
+    "raw_medication_text": "CAP UPRISE D3",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "once a week"
+  },
+  {
+    "mention_id": "AMNIN_RX_0026_M001",
+    "prescription_id": "AMNIN_RX_0026",
+    "raw_medication_text": "CAP RAZO D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0026_M002",
+    "prescription_id": "AMNIN_RX_0026",
+    "raw_medication_text": "SYP LOOZ",
+    "visible_strength": "20ml",
+    "visible_form": "syrup",
+    "visible_route": "P/O",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0026_M003",
+    "prescription_id": "AMNIN_RX_0026",
+    "raw_medication_text": "CAP BIFILAC HP",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0026_M004",
+    "prescription_id": "AMNIN_RX_0026",
+    "raw_medication_text": "SYP ALKASOL",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0026_M005",
+    "prescription_id": "AMNIN_RX_0026",
+    "raw_medication_text": "TAB URIMAX D",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0027_M001",
+    "prescription_id": "AMNIN_RX_0027",
+    "raw_medication_text": "CAP BIFILAC HP",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0027_M002",
+    "prescription_id": "AMNIN_RX_0027",
+    "raw_medication_text": "CAP REDOTIL",
+    "visible_strength": "100mg",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0027_M003",
+    "prescription_id": "AMNIN_RX_0027",
+    "raw_medication_text": "CAP IRAZOLE DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0027_M004",
+    "prescription_id": "AMNIN_RX_0027",
+    "raw_medication_text": "TAB METRONIDAZOLE",
+    "visible_strength": "400mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0028_M001",
+    "prescription_id": "AMNIN_RX_0028",
+    "raw_medication_text": "SYP APTIVATE",
+    "visible_strength": "",
+    "visible_form": "syrup",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0028_M002",
+    "prescription_id": "AMNIN_RX_0028",
+    "raw_medication_text": "TAB TRISCOVIT-OD",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0028_M003",
+    "prescription_id": "AMNIN_RX_0028",
+    "raw_medication_text": "TAB VERTIN",
+    "visible_strength": "8mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0028_M004",
+    "prescription_id": "AMNIN_RX_0028",
+    "raw_medication_text": "TAB NANDOM",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0029_M001",
+    "prescription_id": "AMNIN_RX_0029",
+    "raw_medication_text": "TAB DOLO",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0029_M002",
+    "prescription_id": "AMNIN_RX_0029",
+    "raw_medication_text": "TAB AZEE",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0029_M003",
+    "prescription_id": "AMNIN_RX_0029",
+    "raw_medication_text": "TAB MONTAIR KLC",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0030_M001",
+    "prescription_id": "AMNIN_RX_0030",
+    "raw_medication_text": "TAB DOLO",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0030_M002",
+    "prescription_id": "AMNIN_RX_0030",
+    "raw_medication_text": "TAB NEUROBION FORTE",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0030_M003",
+    "prescription_id": "AMNIN_RX_0030",
+    "raw_medication_text": "TAB SHELCAL CT",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0030_M004",
+    "prescription_id": "AMNIN_RX_0030",
+    "raw_medication_text": "CAP UPRISE D3",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "once a week"
+  },
+  {
+    "mention_id": "AMNIN_RX_0031_M001",
+    "prescription_id": "AMNIN_RX_0031",
+    "raw_medication_text": "TAB AUGMENTIN DUO",
+    "visible_strength": "625mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0031_M002",
+    "prescription_id": "AMNIN_RX_0031",
+    "raw_medication_text": "TAB DOLO",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0031_M003",
+    "prescription_id": "AMNIN_RX_0031",
+    "raw_medication_text": "TAB DROTIN-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0031_M004",
+    "prescription_id": "AMNIN_RX_0031",
+    "raw_medication_text": "TAB PULMOCLEAR",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0031_M005",
+    "prescription_id": "AMNIN_RX_0031",
+    "raw_medication_text": "CAP CYRA-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0032_M001",
+    "prescription_id": "AMNIN_RX_0032",
+    "raw_medication_text": "CAP CYRA-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0032_M002",
+    "prescription_id": "AMNIN_RX_0032",
+    "raw_medication_text": "TAB DROTIN-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0032_M003",
+    "prescription_id": "AMNIN_RX_0032",
+    "raw_medication_text": "TAB MAXTIFEN-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0032_M004",
+    "prescription_id": "AMNIN_RX_0032",
+    "raw_medication_text": "SYP K-MAC UTI",
+    "visible_strength": "",
+    "visible_form": "syrup",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0032_M005",
+    "prescription_id": "AMNIN_RX_0032",
+    "raw_medication_text": "TAB OROFER-XT",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0032_M006",
+    "prescription_id": "AMNIN_RX_0032",
+    "raw_medication_text": "SYP SUCRAFIL-O",
+    "visible_strength": "",
+    "visible_form": "syrup",
+    "visible_route": "PO",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0032_M007",
+    "prescription_id": "AMNIN_RX_0032",
+    "raw_medication_text": "CAP UPRISE-D3",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "PO",
+    "visible_frequency": "once/week"
+  },
+  {
+    "mention_id": "AMNIN_RX_0032_M008",
+    "prescription_id": "AMNIN_RX_0032",
+    "raw_medication_text": "TAB SURACAL",
+    "visible_strength": "1g",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0033_M001",
+    "prescription_id": "AMNIN_RX_0033",
+    "raw_medication_text": "TAB DROTIN-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0033_M002",
+    "prescription_id": "AMNIN_RX_0033",
+    "raw_medication_text": "CAP RAZO-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0033_M003",
+    "prescription_id": "AMNIN_RX_0033",
+    "raw_medication_text": "CAP BIFILAC HP",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0033_M004",
+    "prescription_id": "AMNIN_RX_0033",
+    "raw_medication_text": "SYP LOOZ",
+    "visible_strength": "15ml",
+    "visible_form": "syrup",
+    "visible_route": "P/O",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0033_M005",
+    "prescription_id": "AMNIN_RX_0033",
+    "raw_medication_text": "TAB TRISCOVIT OD",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0034_M001",
+    "prescription_id": "AMNIN_RX_0034",
+    "raw_medication_text": "TAB WOF-OZ",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0034_M002",
+    "prescription_id": "AMNIN_RX_0034",
+    "raw_medication_text": "CAP RAZO-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0034_M003",
+    "prescription_id": "AMNIN_RX_0034",
+    "raw_medication_text": "TAB DROTIN DS",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0035_M001",
+    "prescription_id": "AMNIN_RX_0035",
+    "raw_medication_text": "CAP CYRA-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0035_M002",
+    "prescription_id": "AMNIN_RX_0035",
+    "raw_medication_text": "TAB AUGMENTIN-DUO",
+    "visible_strength": "625mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0035_M003",
+    "prescription_id": "AMNIN_RX_0035",
+    "raw_medication_text": "TAB AZEF",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0035_M004",
+    "prescription_id": "AMNIN_RX_0035",
+    "raw_medication_text": "TAB ONDEM-MD",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0035_M005",
+    "prescription_id": "AMNIN_RX_0035",
+    "raw_medication_text": "CAP BIFILAC-HP",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0035_M006",
+    "prescription_id": "AMNIN_RX_0035",
+    "raw_medication_text": "DOLO",
+    "visible_strength": "650mg",
+    "visible_form": "strip",
+    "visible_route": "P/O",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0035_M007",
+    "prescription_id": "AMNIN_RX_0035",
+    "raw_medication_text": "SYP ASCORIL-LS",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0036_M001",
+    "prescription_id": "AMNIN_RX_0036",
+    "raw_medication_text": "CAP CYRA-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0036_M002",
+    "prescription_id": "AMNIN_RX_0036",
+    "raw_medication_text": "CAP UPRISE D3",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "PO",
+    "visible_frequency": "1/week"
+  },
+  {
+    "mention_id": "AMNIN_RX_0036_M003",
+    "prescription_id": "AMNIN_RX_0036",
+    "raw_medication_text": "TAB TELMA",
+    "visible_strength": "40mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0036_M004",
+    "prescription_id": "AMNIN_RX_0036",
+    "raw_medication_text": "TAB CILNIDIPINE",
+    "visible_strength": "15mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0036_M005",
+    "prescription_id": "AMNIN_RX_0036",
+    "raw_medication_text": "TAB METFORMIN",
+    "visible_strength": "1g",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0036_M006",
+    "prescription_id": "AMNIN_RX_0036",
+    "raw_medication_text": "TAB TRAMADOL",
+    "visible_strength": "50mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0036_M007",
+    "prescription_id": "AMNIN_RX_0036",
+    "raw_medication_text": "TAB DYTOR",
+    "visible_strength": "5mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0036_M008",
+    "prescription_id": "AMNIN_RX_0036",
+    "raw_medication_text": "TAB NEUROBION FORTE",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0036_M009",
+    "prescription_id": "AMNIN_RX_0036",
+    "raw_medication_text": "SYP CREMAFFIN",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "PO",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0037_M001",
+    "prescription_id": "AMNIN_RX_0037",
+    "raw_medication_text": "CAP CYRA-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0037_M002",
+    "prescription_id": "AMNIN_RX_0037",
+    "raw_medication_text": "TAB MONTEAIR LC",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0037_M003",
+    "prescription_id": "AMNIN_RX_0037",
+    "raw_medication_text": "SYP ASCORIL-D",
+    "visible_strength": "",
+    "visible_form": "syrup",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0037_M004",
+    "prescription_id": "AMNIN_RX_0037",
+    "raw_medication_text": "TAB MULTIVITAMIN B-COMPLEX",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0037_M005",
+    "prescription_id": "AMNIN_RX_0037",
+    "raw_medication_text": "TAB DOLO",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0038_M001",
+    "prescription_id": "AMNIN_RX_0038",
+    "raw_medication_text": "TAB CALISKA DS",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0038_M002",
+    "prescription_id": "AMNIN_RX_0038",
+    "raw_medication_text": "CAP ZINCOVIT OD",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0038_M003",
+    "prescription_id": "AMNIN_RX_0038",
+    "raw_medication_text": "TAB FOLIFIL",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0038_M004",
+    "prescription_id": "AMNIN_RX_0038",
+    "raw_medication_text": "CAP ICAL",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "1 cap/week"
+  },
+  {
+    "mention_id": "AMNIN_RX_0038_M005",
+    "prescription_id": "AMNIN_RX_0038",
+    "raw_medication_text": "INJ ARACHITOL",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0038_M006",
+    "prescription_id": "AMNIN_RX_0038",
+    "raw_medication_text": "E-SYRINGE",
+    "visible_strength": "1ml",
+    "visible_form": "",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0039_M001",
+    "prescription_id": "AMNIN_RX_0039",
+    "raw_medication_text": "TAB TELMA",
+    "visible_strength": "20mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0039_M002",
+    "prescription_id": "AMNIN_RX_0039",
+    "raw_medication_text": "TAB SHELCAL-CT",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0039_M003",
+    "prescription_id": "AMNIN_RX_0039",
+    "raw_medication_text": "CAP UPRISE-D3",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "once a week"
+  },
+  {
+    "mention_id": "AMNIN_RX_0039_M004",
+    "prescription_id": "AMNIN_RX_0039",
+    "raw_medication_text": "TAB LIVOGREN-Z",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0039_M005",
+    "prescription_id": "AMNIN_RX_0039",
+    "raw_medication_text": "TAB GLYCOMET GP",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0040_M001",
+    "prescription_id": "AMNIN_RX_0040",
+    "raw_medication_text": "TAB FOLIFIL",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0040_M002",
+    "prescription_id": "AMNIN_RX_0040",
+    "raw_medication_text": "CAP TRISCOVIT OD",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0040_M003",
+    "prescription_id": "AMNIN_RX_0040",
+    "raw_medication_text": "TAB CALISKA-DS",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0040_M004",
+    "prescription_id": "AMNIN_RX_0040",
+    "raw_medication_text": "TAB CIFRAN",
+    "visible_strength": "2g",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0041_M001",
+    "prescription_id": "AMNIN_RX_0041",
+    "raw_medication_text": "MDI DUOVIA",
+    "visible_strength": "",
+    "visible_form": "",
+    "visible_route": "inhalation",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0041_M002",
+    "prescription_id": "AMNIN_RX_0041",
+    "raw_medication_text": "TAB PULMOCLEAR",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0041_M003",
+    "prescription_id": "AMNIN_RX_0041",
+    "raw_medication_text": "TAB GLYCOMET-SR",
+    "visible_strength": "850mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0041_M004",
+    "prescription_id": "AMNIN_RX_0041",
+    "raw_medication_text": "TAB ATORVA",
+    "visible_strength": "20mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0041_M005",
+    "prescription_id": "AMNIN_RX_0041",
+    "raw_medication_text": "SYP LOOZ",
+    "visible_strength": "20ml",
+    "visible_form": "syrup",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0042_M001",
+    "prescription_id": "AMNIN_RX_0042",
+    "raw_medication_text": "INJ MVI",
+    "visible_strength": "100ml",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0042_M002",
+    "prescription_id": "AMNIN_RX_0042",
+    "raw_medication_text": "IV FLUID",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0043_M001",
+    "prescription_id": "AMNIN_RX_0043",
+    "raw_medication_text": "IVF NS/DNS",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0043_M002",
+    "prescription_id": "AMNIN_RX_0043",
+    "raw_medication_text": "TAB AZEE",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0043_M003",
+    "prescription_id": "AMNIN_RX_0043",
+    "raw_medication_text": "INJ PANTOP",
+    "visible_strength": "40mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0045_M001",
+    "prescription_id": "AMNIN_RX_0045",
+    "raw_medication_text": "CAP OMEZ-D PLUS",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0045_M002",
+    "prescription_id": "AMNIN_RX_0045",
+    "raw_medication_text": "SYP MUCAINE GEL",
+    "visible_strength": "15ml",
+    "visible_form": "syrup",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0045_M003",
+    "prescription_id": "AMNIN_RX_0045",
+    "raw_medication_text": "TAB A TO Z",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0045_M004",
+    "prescription_id": "AMNIN_RX_0045",
+    "raw_medication_text": "TAB ICAL",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "once weekly"
+  },
+  {
+    "mention_id": "AMNIN_RX_0045_M005",
+    "prescription_id": "AMNIN_RX_0045",
+    "raw_medication_text": "TAB CALDIKIND-CM",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0045_M006",
+    "prescription_id": "AMNIN_RX_0045",
+    "raw_medication_text": "TAB DROTIN",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "stat"
+  },
+  {
+    "mention_id": "AMNIN_RX_0046_M001",
+    "prescription_id": "AMNIN_RX_0046",
+    "raw_medication_text": "TAB THYRONORM",
+    "visible_strength": "62.5mcg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0046_M002",
+    "prescription_id": "AMNIN_RX_0046",
+    "raw_medication_text": "TAB GLYCOMET SR",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0046_M003",
+    "prescription_id": "AMNIN_RX_0046",
+    "raw_medication_text": "TAB DAPA",
+    "visible_strength": "10mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0046_M004",
+    "prescription_id": "AMNIN_RX_0046",
+    "raw_medication_text": "CAP CYRA-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0046_M005",
+    "prescription_id": "AMNIN_RX_0046",
+    "raw_medication_text": "SYP OMEZ-O",
+    "visible_strength": "15ml",
+    "visible_form": "syrup",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0046_M006",
+    "prescription_id": "AMNIN_RX_0046",
+    "raw_medication_text": "TAB ME-12 OD",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0047_M001",
+    "prescription_id": "AMNIN_RX_0047",
+    "raw_medication_text": "SYP SUCRAFIL-O",
+    "visible_strength": "15ml",
+    "visible_form": "syrup",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0047_M002",
+    "prescription_id": "AMNIN_RX_0047",
+    "raw_medication_text": "INJ RANTAC",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0047_M003",
+    "prescription_id": "AMNIN_RX_0047",
+    "raw_medication_text": "INJ MOL",
+    "visible_strength": "100ml",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0047_M004",
+    "prescription_id": "AMNIN_RX_0047",
+    "raw_medication_text": "INJ EMSET",
+    "visible_strength": "4mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0047_M005",
+    "prescription_id": "AMNIN_RX_0047",
+    "raw_medication_text": "INJ MONOCEF",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0047_M006",
+    "prescription_id": "AMNIN_RX_0047",
+    "raw_medication_text": "TAB DYTOR",
+    "visible_strength": "5mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0047_M007",
+    "prescription_id": "AMNIN_RX_0047",
+    "raw_medication_text": "TAB PANEDON MR",
+    "visible_strength": "35mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0047_M008",
+    "prescription_id": "AMNIN_RX_0047",
+    "raw_medication_text": "TAB MONIT GTN",
+    "visible_strength": "2.6mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0047_M009",
+    "prescription_id": "AMNIN_RX_0047",
+    "raw_medication_text": "TAB ECOSPIRIN AV",
+    "visible_strength": "20mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0048_M001",
+    "prescription_id": "AMNIN_RX_0048",
+    "raw_medication_text": "TAB DAPA",
+    "visible_strength": "10mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0048_M002",
+    "prescription_id": "AMNIN_RX_0048",
+    "raw_medication_text": "TAB FENUR",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0048_M003",
+    "prescription_id": "AMNIN_RX_0048",
+    "raw_medication_text": "TAB ME-12",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0048_M004",
+    "prescription_id": "AMNIN_RX_0048",
+    "raw_medication_text": "K-BIND SACHET",
+    "visible_strength": "",
+    "visible_form": "sachet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0048_M005",
+    "prescription_id": "AMNIN_RX_0048",
+    "raw_medication_text": "TAB ROSUTA-F",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0048_M006",
+    "prescription_id": "AMNIN_RX_0048",
+    "raw_medication_text": "IV IRON SUCROSE",
+    "visible_strength": "200mg|100ml",
+    "visible_form": "",
+    "visible_route": "IV",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0049_M001",
+    "prescription_id": "AMNIN_RX_0049",
+    "raw_medication_text": "INJ MOL",
+    "visible_strength": "100ml",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0049_M002",
+    "prescription_id": "AMNIN_RX_0049",
+    "raw_medication_text": "INJ EMSET",
+    "visible_strength": "4mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0049_M003",
+    "prescription_id": "AMNIN_RX_0049",
+    "raw_medication_text": "INJ PANTOP",
+    "visible_strength": "40mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0049_M004",
+    "prescription_id": "AMNIN_RX_0049",
+    "raw_medication_text": "TAB DYTOR",
+    "visible_strength": "5mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0049_M005",
+    "prescription_id": "AMNIN_RX_0049",
+    "raw_medication_text": "TAB CARCA",
+    "visible_strength": "3.125mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0049_M006",
+    "prescription_id": "AMNIN_RX_0049",
+    "raw_medication_text": "INJ MONOCEF",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0049_M007",
+    "prescription_id": "AMNIN_RX_0049",
+    "raw_medication_text": "SYP LOOZ",
+    "visible_strength": "20ml",
+    "visible_form": "syrup",
+    "visible_route": "P/O",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0049_M008",
+    "prescription_id": "AMNIN_RX_0049",
+    "raw_medication_text": "PR LOOZ ENEMA",
+    "visible_strength": "",
+    "visible_form": "bottle",
+    "visible_route": "",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0051_M001",
+    "prescription_id": "AMNIN_RX_0051",
+    "raw_medication_text": "Tab Ecosprin",
+    "visible_strength": "75mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0051_M002",
+    "prescription_id": "AMNIN_RX_0051",
+    "raw_medication_text": "Tab Telma",
+    "visible_strength": "40mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0051_M003",
+    "prescription_id": "AMNIN_RX_0051",
+    "raw_medication_text": "Tab Glycomet",
+    "visible_strength": "850mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0051_M004",
+    "prescription_id": "AMNIN_RX_0051",
+    "raw_medication_text": "Tab Telma-AM",
+    "visible_strength": "5mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0051_M005",
+    "prescription_id": "AMNIN_RX_0051",
+    "raw_medication_text": "Tab Dolo",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0051_M006",
+    "prescription_id": "AMNIN_RX_0051",
+    "raw_medication_text": "Tab Pantop",
+    "visible_strength": "40mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0051_M007",
+    "prescription_id": "AMNIN_RX_0051",
+    "raw_medication_text": "Tab A to Z",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0051_M008",
+    "prescription_id": "AMNIN_RX_0051",
+    "raw_medication_text": "ORS water",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0052_M001",
+    "prescription_id": "AMNIN_RX_0052",
+    "raw_medication_text": "Cap Cyra-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0052_M002",
+    "prescription_id": "AMNIN_RX_0052",
+    "raw_medication_text": "Tab Ondem-MD",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0052_M003",
+    "prescription_id": "AMNIN_RX_0052",
+    "raw_medication_text": "Tab Metrogyl",
+    "visible_strength": "400mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0052_M004",
+    "prescription_id": "AMNIN_RX_0052",
+    "raw_medication_text": "Tab Radotil",
+    "visible_strength": "100mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0052_M005",
+    "prescription_id": "AMNIN_RX_0052",
+    "raw_medication_text": "Cap Befilac-HP",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0052_M006",
+    "prescription_id": "AMNIN_RX_0052",
+    "raw_medication_text": "Tab Drotin-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0052_M007",
+    "prescription_id": "AMNIN_RX_0052",
+    "raw_medication_text": "Tab Montek-LC",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0052_M008",
+    "prescription_id": "AMNIN_RX_0052",
+    "raw_medication_text": "Tab Dolo",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0053_M001",
+    "prescription_id": "AMNIN_RX_0053",
+    "raw_medication_text": "Cap Regimune NTC",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "PO",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0053_M002",
+    "prescription_id": "AMNIN_RX_0053",
+    "raw_medication_text": "Tab Glycomet GP 1",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0053_M003",
+    "prescription_id": "AMNIN_RX_0053",
+    "raw_medication_text": "Tab Sitagliptin",
+    "visible_strength": "100mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0053_M004",
+    "prescription_id": "AMNIN_RX_0053",
+    "raw_medication_text": "Tab Dapa",
+    "visible_strength": "10mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0054_M001",
+    "prescription_id": "AMNIN_RX_0054",
+    "raw_medication_text": "Inj Pan",
+    "visible_strength": "40mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "IV OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0054_M002",
+    "prescription_id": "AMNIN_RX_0054",
+    "raw_medication_text": "Inj EMSET",
+    "visible_strength": "4mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "IV SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0054_M003",
+    "prescription_id": "AMNIN_RX_0054",
+    "raw_medication_text": "Inj MONOCEF",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "IV BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0054_M004",
+    "prescription_id": "AMNIN_RX_0054",
+    "raw_medication_text": "Inj MOC",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "IV SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0054_M005",
+    "prescription_id": "AMNIN_RX_0054",
+    "raw_medication_text": "IV fluids DNS / RL / NS / RL",
+    "visible_strength": "",
+    "visible_form": "",
+    "visible_route": "IV",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0055_M001",
+    "prescription_id": "AMNIN_RX_0055",
+    "raw_medication_text": "D3 nano shot",
+    "visible_strength": "",
+    "visible_form": "",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0055_M002",
+    "prescription_id": "AMNIN_RX_0055",
+    "raw_medication_text": "TAB Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "p/o"
+  },
+  {
+    "mention_id": "AMNIN_RX_0055_M003",
+    "prescription_id": "AMNIN_RX_0055",
+    "raw_medication_text": "Syp Adrinal",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0056_M001",
+    "prescription_id": "AMNIN_RX_0056",
+    "raw_medication_text": "Tab DOLO 650mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0058_M001",
+    "prescription_id": "AMNIN_RX_0058",
+    "raw_medication_text": "TAB Thyroxine",
+    "visible_strength": "25mcg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0058_M002",
+    "prescription_id": "AMNIN_RX_0058",
+    "raw_medication_text": "TAB Aldactone",
+    "visible_strength": "50mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0058_M003",
+    "prescription_id": "AMNIN_RX_0058",
+    "raw_medication_text": "TAB PAN",
+    "visible_strength": "40mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0058_M004",
+    "prescription_id": "AMNIN_RX_0058",
+    "raw_medication_text": "TAB EMSET",
+    "visible_strength": "4mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0058_M005",
+    "prescription_id": "AMNIN_RX_0058",
+    "raw_medication_text": "Inj Ceftriaxone",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0058_M006",
+    "prescription_id": "AMNIN_RX_0058",
+    "raw_medication_text": "Syp lactulose",
+    "visible_strength": "30ml",
+    "visible_form": "syrup",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0058_M007",
+    "prescription_id": "AMNIN_RX_0058",
+    "raw_medication_text": "TAB Rifagut",
+    "visible_strength": "550mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0058_M008",
+    "prescription_id": "AMNIN_RX_0058",
+    "raw_medication_text": "TAB Carnix",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0058_M009",
+    "prescription_id": "AMNIN_RX_0058",
+    "raw_medication_text": "TAB",
+    "visible_strength": "2.5mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0059_M001",
+    "prescription_id": "AMNIN_RX_0059",
+    "raw_medication_text": "T. Zifi-O 500 mg",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "x 3d"
+  },
+  {
+    "mention_id": "AMNIN_RX_0059_M002",
+    "prescription_id": "AMNIN_RX_0059",
+    "raw_medication_text": "T. Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "x 3 day"
+  },
+  {
+    "mention_id": "AMNIN_RX_0059_M003",
+    "prescription_id": "AMNIN_RX_0059",
+    "raw_medication_text": "T. Multfol 500 mg",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "x 3 day"
+  },
+  {
+    "mention_id": "AMNIN_RX_0059_M004",
+    "prescription_id": "AMNIN_RX_0059",
+    "raw_medication_text": "Inj Omer-D 20 ml",
+    "visible_strength": "20ml",
+    "visible_form": "injection",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0060_M001",
+    "prescription_id": "AMNIN_RX_0060",
+    "raw_medication_text": "TAB DOLO 650mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0060_M002",
+    "prescription_id": "AMNIN_RX_0060",
+    "raw_medication_text": "CAP CYRA D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0060_M003",
+    "prescription_id": "AMNIN_RX_0060",
+    "raw_medication_text": "TAB IRISOVIT OD",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0060_M004",
+    "prescription_id": "AMNIN_RX_0060",
+    "raw_medication_text": "TAB ZIFI CV 200mg",
+    "visible_strength": "200mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0061_M001",
+    "prescription_id": "AMNIN_RX_0061",
+    "raw_medication_text": "Tab Augmentin Duo 625",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0061_M002",
+    "prescription_id": "AMNIN_RX_0061",
+    "raw_medication_text": "Tab Ebast-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0061_M003",
+    "prescription_id": "AMNIN_RX_0061",
+    "raw_medication_text": "Cap Irazole DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0061_M004",
+    "prescription_id": "AMNIN_RX_0061",
+    "raw_medication_text": "Tab Iriscout",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0061_M005",
+    "prescription_id": "AMNIN_RX_0061",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0061_M006",
+    "prescription_id": "AMNIN_RX_0061",
+    "raw_medication_text": "Syp Reswas",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0061_M007",
+    "prescription_id": "AMNIN_RX_0061",
+    "raw_medication_text": "Tab Thyronorm 125 mcg",
+    "visible_strength": "125mcg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0062_M001",
+    "prescription_id": "AMNIN_RX_0062",
+    "raw_medication_text": "Tab ixazole DSR 40",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0062_M002",
+    "prescription_id": "AMNIN_RX_0062",
+    "raw_medication_text": "Tab levineil",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0062_M003",
+    "prescription_id": "AMNIN_RX_0062",
+    "raw_medication_text": "Tab caldikind CM",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0062_M004",
+    "prescription_id": "AMNIN_RX_0062",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0062_M005",
+    "prescription_id": "AMNIN_RX_0062",
+    "raw_medication_text": "Tab denvirile 25 mg",
+    "visible_strength": "25mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0063_M001",
+    "prescription_id": "AMNIN_RX_0063",
+    "raw_medication_text": "Inj Monocef",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0063_M002",
+    "prescription_id": "AMNIN_RX_0063",
+    "raw_medication_text": "Inj Pan",
+    "visible_strength": "40mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0063_M003",
+    "prescription_id": "AMNIN_RX_0063",
+    "raw_medication_text": "Inj Emset",
+    "visible_strength": "4mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0063_M004",
+    "prescription_id": "AMNIN_RX_0063",
+    "raw_medication_text": "Syp Sucralfil-O",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0063_M005",
+    "prescription_id": "AMNIN_RX_0063",
+    "raw_medication_text": "Tab Lesuride",
+    "visible_strength": "75mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0063_M006",
+    "prescription_id": "AMNIN_RX_0063",
+    "raw_medication_text": "Tab Trasenta Duo",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0063_M007",
+    "prescription_id": "AMNIN_RX_0063",
+    "raw_medication_text": "Tab Atorva",
+    "visible_strength": "20mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0063_M008",
+    "prescription_id": "AMNIN_RX_0063",
+    "raw_medication_text": "Tab Telma-AMH",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0063_M009",
+    "prescription_id": "AMNIN_RX_0063",
+    "raw_medication_text": "Tab Cyblex",
+    "visible_strength": "80mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0063_M010",
+    "prescription_id": "AMNIN_RX_0063",
+    "raw_medication_text": "Tab Carca",
+    "visible_strength": "6.25mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0063_M011",
+    "prescription_id": "AMNIN_RX_0063",
+    "raw_medication_text": "Tab Clonax",
+    "visible_strength": "0.5mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0063_M012",
+    "prescription_id": "AMNIN_RX_0063",
+    "raw_medication_text": "Tab Pregaba-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0064_M001",
+    "prescription_id": "AMNIN_RX_0064",
+    "raw_medication_text": "Inj Monocel",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0064_M002",
+    "prescription_id": "AMNIN_RX_0064",
+    "raw_medication_text": "Tab Azee",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0064_M003",
+    "prescription_id": "AMNIN_RX_0064",
+    "raw_medication_text": "Inj Pan",
+    "visible_strength": "40mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0064_M004",
+    "prescription_id": "AMNIN_RX_0064",
+    "raw_medication_text": "Inj Emeset",
+    "visible_strength": "4mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0064_M005",
+    "prescription_id": "AMNIN_RX_0064",
+    "raw_medication_text": "Tab Levocet M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0064_M006",
+    "prescription_id": "AMNIN_RX_0064",
+    "raw_medication_text": "IVF NS/RL",
+    "visible_strength": "80ml",
+    "visible_form": "",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0064_M007",
+    "prescription_id": "AMNIN_RX_0064",
+    "raw_medication_text": "Inj Optineuron",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0064_M008",
+    "prescription_id": "AMNIN_RX_0064",
+    "raw_medication_text": "Inj Mol",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0065_M001",
+    "prescription_id": "AMNIN_RX_0065",
+    "raw_medication_text": "IVF DNS/RL",
+    "visible_strength": "60ml",
+    "visible_form": "",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0065_M002",
+    "prescription_id": "AMNIN_RX_0065",
+    "raw_medication_text": "Inj Monocel",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0065_M003",
+    "prescription_id": "AMNIN_RX_0065",
+    "raw_medication_text": "Inj PAN",
+    "visible_strength": "40mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0065_M004",
+    "prescription_id": "AMNIN_RX_0065",
+    "raw_medication_text": "Inj EMSET",
+    "visible_strength": "4mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0065_M005",
+    "prescription_id": "AMNIN_RX_0065",
+    "raw_medication_text": "Inj Optineuron",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0065_M006",
+    "prescription_id": "AMNIN_RX_0065",
+    "raw_medication_text": "Tab Telma AM",
+    "visible_strength": "5mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0065_M007",
+    "prescription_id": "AMNIN_RX_0065",
+    "raw_medication_text": "Tab Udiliv",
+    "visible_strength": "300mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0065_M008",
+    "prescription_id": "AMNIN_RX_0065",
+    "raw_medication_text": "Tab Heptral",
+    "visible_strength": "400mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0065_M009",
+    "prescription_id": "AMNIN_RX_0065",
+    "raw_medication_text": "Syp Looz",
+    "visible_strength": "30ml",
+    "visible_form": "syrup",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0065_M010",
+    "prescription_id": "AMNIN_RX_0065",
+    "raw_medication_text": "Tab Rifagut",
+    "visible_strength": "550mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0066_M001",
+    "prescription_id": "AMNIN_RX_0066",
+    "raw_medication_text": "INJ PAN",
+    "visible_strength": "40mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0066_M002",
+    "prescription_id": "AMNIN_RX_0066",
+    "raw_medication_text": "INJ ONDEM",
+    "visible_strength": "4mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0066_M003",
+    "prescription_id": "AMNIN_RX_0066",
+    "raw_medication_text": "TAB DROTIN-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0066_M004",
+    "prescription_id": "AMNIN_RX_0066",
+    "raw_medication_text": "TAB MONTAIR LC",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0066_M005",
+    "prescription_id": "AMNIN_RX_0066",
+    "raw_medication_text": "TAB DILZEM CD",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0066_M006",
+    "prescription_id": "AMNIN_RX_0066",
+    "raw_medication_text": "TAB NODOSIS",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0066_M007",
+    "prescription_id": "AMNIN_RX_0066",
+    "raw_medication_text": "TAB HYKONORM",
+    "visible_strength": "75mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD BBF"
+  },
+  {
+    "mention_id": "AMNIN_RX_0066_M008",
+    "prescription_id": "AMNIN_RX_0066",
+    "raw_medication_text": "INJ MONOCEF",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0066_M009",
+    "prescription_id": "AMNIN_RX_0066",
+    "raw_medication_text": "INJ METROGYL",
+    "visible_strength": "100ml",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0066_M010",
+    "prescription_id": "AMNIN_RX_0066",
+    "raw_medication_text": "TAB DOLO",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0068_M001",
+    "prescription_id": "AMNIN_RX_0068",
+    "raw_medication_text": "TAB Dolo 650mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0068_M002",
+    "prescription_id": "AMNIN_RX_0068",
+    "raw_medication_text": "D3 shot",
+    "visible_strength": "",
+    "visible_form": "",
+    "visible_route": "",
+    "visible_frequency": "one weekly"
+  },
+  {
+    "mention_id": "AMNIN_RX_0068_M003",
+    "prescription_id": "AMNIN_RX_0068",
+    "raw_medication_text": "TAB IRISCOVIT - OD",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0069_M001",
+    "prescription_id": "AMNIN_RX_0069",
+    "raw_medication_text": "TAB MONTAIR LC",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0069_M002",
+    "prescription_id": "AMNIN_RX_0069",
+    "raw_medication_text": "TAB DOLO 650mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0071_M001",
+    "prescription_id": "AMNIN_RX_0071",
+    "raw_medication_text": "Cap Razo-L",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0071_M002",
+    "prescription_id": "AMNIN_RX_0071",
+    "raw_medication_text": "Tab Iriscovid OD",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0071_M003",
+    "prescription_id": "AMNIN_RX_0071",
+    "raw_medication_text": "Tab Dolo 650mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0071_M004",
+    "prescription_id": "AMNIN_RX_0071",
+    "raw_medication_text": "Syp Reswas-LS",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0071_M005",
+    "prescription_id": "AMNIN_RX_0071",
+    "raw_medication_text": "Tab Ebastine M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0072_M001",
+    "prescription_id": "AMNIN_RX_0072",
+    "raw_medication_text": "TAB DOLO 650mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0072_M002",
+    "prescription_id": "AMNIN_RX_0072",
+    "raw_medication_text": "TAB EBAST-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0072_M003",
+    "prescription_id": "AMNIN_RX_0072",
+    "raw_medication_text": "SYP RESWAS LS",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "PO",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0072_M004",
+    "prescription_id": "AMNIN_RX_0072",
+    "raw_medication_text": "TAB AUGMENTIN 625mg",
+    "visible_strength": "625mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0072_M005",
+    "prescription_id": "AMNIN_RX_0072",
+    "raw_medication_text": "CAP PAN DSR 40mg",
+    "visible_strength": "40mg",
+    "visible_form": "capsule",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0073_M001",
+    "prescription_id": "AMNIN_RX_0073",
+    "raw_medication_text": "TAB AUGMENTIN DUO 625",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0073_M002",
+    "prescription_id": "AMNIN_RX_0073",
+    "raw_medication_text": "CAP IRATOLE DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0073_M003",
+    "prescription_id": "AMNIN_RX_0073",
+    "raw_medication_text": "TAB NEUROBETA-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0073_M004",
+    "prescription_id": "AMNIN_RX_0073",
+    "raw_medication_text": "TAB DOLO 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0073_M005",
+    "prescription_id": "AMNIN_RX_0073",
+    "raw_medication_text": "SYP RESWAS",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "P/O",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0073_M006",
+    "prescription_id": "AMNIN_RX_0073",
+    "raw_medication_text": "LDS shots",
+    "visible_strength": "",
+    "visible_form": "bottle",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0073_M007",
+    "prescription_id": "AMNIN_RX_0073",
+    "raw_medication_text": "TAB IRISOLIN",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0074_M001",
+    "prescription_id": "AMNIN_RX_0074",
+    "raw_medication_text": "TAB DOLO 650mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0074_M002",
+    "prescription_id": "AMNIN_RX_0074",
+    "raw_medication_text": "TAB EBAT-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0074_M003",
+    "prescription_id": "AMNIN_RX_0074",
+    "raw_medication_text": "SYP RESWAS-LS",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "PO",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0074_M004",
+    "prescription_id": "AMNIN_RX_0074",
+    "raw_medication_text": "CAP MRA-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0074_M005",
+    "prescription_id": "AMNIN_RX_0074",
+    "raw_medication_text": "TAB AZEE 500mg",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0075_M001",
+    "prescription_id": "AMNIN_RX_0075",
+    "raw_medication_text": "INJ MONOCEF",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0075_M002",
+    "prescription_id": "AMNIN_RX_0075",
+    "raw_medication_text": "INJ PAN",
+    "visible_strength": "40mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0075_M003",
+    "prescription_id": "AMNIN_RX_0075",
+    "raw_medication_text": "INJ EMBET",
+    "visible_strength": "4mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0075_M004",
+    "prescription_id": "AMNIN_RX_0075",
+    "raw_medication_text": "INJ OPTINEURON",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0075_M005",
+    "prescription_id": "AMNIN_RX_0075",
+    "raw_medication_text": "INJ MOL",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0075_M006",
+    "prescription_id": "AMNIN_RX_0075",
+    "raw_medication_text": "TAB DOLO 650mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0076_M001",
+    "prescription_id": "AMNIN_RX_0076",
+    "raw_medication_text": "Syp SURAFIL-O",
+    "visible_strength": "15ml",
+    "visible_form": "syrup",
+    "visible_route": "PO",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0076_M002",
+    "prescription_id": "AMNIN_RX_0076",
+    "raw_medication_text": "Cap IRAZOLE DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0076_M003",
+    "prescription_id": "AMNIN_RX_0076",
+    "raw_medication_text": "Tab DOLO 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0077_M001",
+    "prescription_id": "AMNIN_RX_0077",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0077_M002",
+    "prescription_id": "AMNIN_RX_0077",
+    "raw_medication_text": "Syp Reswas",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0077_M003",
+    "prescription_id": "AMNIN_RX_0077",
+    "raw_medication_text": "Tab Monocit-D",
+    "visible_strength": "200mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0077_M004",
+    "prescription_id": "AMNIN_RX_0077",
+    "raw_medication_text": "Cap Irazole DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0077_M005",
+    "prescription_id": "AMNIN_RX_0077",
+    "raw_medication_text": "Tab Irocout od",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0078_M001",
+    "prescription_id": "AMNIN_RX_0078",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0078_M002",
+    "prescription_id": "AMNIN_RX_0078",
+    "raw_medication_text": "NDS shots",
+    "visible_strength": "",
+    "visible_form": "bottle",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0078_M003",
+    "prescription_id": "AMNIN_RX_0078",
+    "raw_medication_text": "Tab Iriscovit-OD",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "P/O",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0079_M001",
+    "prescription_id": "AMNIN_RX_0079",
+    "raw_medication_text": "TAB ZIFI-CV",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "p/o",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0079_M002",
+    "prescription_id": "AMNIN_RX_0079",
+    "raw_medication_text": "TAB AZEF 500mg",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "p/o",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0079_M003",
+    "prescription_id": "AMNIN_RX_0079",
+    "raw_medication_text": "TAB Montair-LC",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "p/o",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0079_M004",
+    "prescription_id": "AMNIN_RX_0079",
+    "raw_medication_text": "Syp RESWAS-DX",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "p/o",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0079_M005",
+    "prescription_id": "AMNIN_RX_0079",
+    "raw_medication_text": "Cap Irazole DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "p/o",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0079_M006",
+    "prescription_id": "AMNIN_RX_0079",
+    "raw_medication_text": "Tab DOLO 650mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "p/o",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0079_M007",
+    "prescription_id": "AMNIN_RX_0079",
+    "raw_medication_text": "TAB B-complex",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "p/o",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0080_M001",
+    "prescription_id": "AMNIN_RX_0080",
+    "raw_medication_text": "Tab Drotin DS",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0080_M002",
+    "prescription_id": "AMNIN_RX_0080",
+    "raw_medication_text": "Tab Montek LC",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0080_M003",
+    "prescription_id": "AMNIN_RX_0080",
+    "raw_medication_text": "Tab Dolo 650mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0080_M004",
+    "prescription_id": "AMNIN_RX_0080",
+    "raw_medication_text": "Tab Neurobion Forte",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0080_M005",
+    "prescription_id": "AMNIN_RX_0080",
+    "raw_medication_text": "Cap Cyra-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0081_M001",
+    "prescription_id": "AMNIN_RX_0081",
+    "raw_medication_text": "INJ monocef",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0081_M002",
+    "prescription_id": "AMNIN_RX_0081",
+    "raw_medication_text": "INJ pan",
+    "visible_strength": "40mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0081_M003",
+    "prescription_id": "AMNIN_RX_0081",
+    "raw_medication_text": "INJ emset",
+    "visible_strength": "4mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0081_M004",
+    "prescription_id": "AMNIN_RX_0081",
+    "raw_medication_text": "INJ optineuron",
+    "visible_strength": "10ml/100ml",
+    "visible_form": "injection",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0081_M005",
+    "prescription_id": "AMNIN_RX_0081",
+    "raw_medication_text": "INJ mol.",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0081_M006",
+    "prescription_id": "AMNIN_RX_0081",
+    "raw_medication_text": "T. VILDIM",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0081_M007",
+    "prescription_id": "AMNIN_RX_0081",
+    "raw_medication_text": "T. Dmiron",
+    "visible_strength": "30mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0081_M008",
+    "prescription_id": "AMNIN_RX_0081",
+    "raw_medication_text": "T. Azee",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0082_M001",
+    "prescription_id": "AMNIN_RX_0082",
+    "raw_medication_text": "Tab Augmentin Duo 625",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0082_M002",
+    "prescription_id": "AMNIN_RX_0082",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0082_M003",
+    "prescription_id": "AMNIN_RX_0082",
+    "raw_medication_text": "Tab Cobart-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0082_M004",
+    "prescription_id": "AMNIN_RX_0082",
+    "raw_medication_text": "Syp Reevnas",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0082_M005",
+    "prescription_id": "AMNIN_RX_0082",
+    "raw_medication_text": "Tab Ondem MD",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0082_M006",
+    "prescription_id": "AMNIN_RX_0082",
+    "raw_medication_text": "Cap Irazol DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0082_M007",
+    "prescription_id": "AMNIN_RX_0082",
+    "raw_medication_text": "Tab Neurobion forte",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0083_M001",
+    "prescription_id": "AMNIN_RX_0083",
+    "raw_medication_text": "Cap Doxy 100 mg",
+    "visible_strength": "100mg",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0083_M002",
+    "prescription_id": "AMNIN_RX_0083",
+    "raw_medication_text": "Tab Limid 600 mg",
+    "visible_strength": "600mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0083_M003",
+    "prescription_id": "AMNIN_RX_0083",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0083_M004",
+    "prescription_id": "AMNIN_RX_0083",
+    "raw_medication_text": "T Bact ointment",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0083_M005",
+    "prescription_id": "AMNIN_RX_0083",
+    "raw_medication_text": "Cap Irazol DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0084_M001",
+    "prescription_id": "AMNIN_RX_0084",
+    "raw_medication_text": "Tab Augmentin Duo 625",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0084_M002",
+    "prescription_id": "AMNIN_RX_0084",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0084_M003",
+    "prescription_id": "AMNIN_RX_0084",
+    "raw_medication_text": "Tab Cobart-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0084_M004",
+    "prescription_id": "AMNIN_RX_0084",
+    "raw_medication_text": "Cap Irazole DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0084_M005",
+    "prescription_id": "AMNIN_RX_0084",
+    "raw_medication_text": "Steam inhalation",
+    "visible_strength": "",
+    "visible_form": "bottle",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0085_M001",
+    "prescription_id": "AMNIN_RX_0085",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0085_M002",
+    "prescription_id": "AMNIN_RX_0085",
+    "raw_medication_text": "Tab Bebast-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0085_M003",
+    "prescription_id": "AMNIN_RX_0085",
+    "raw_medication_text": "Syp Reswas",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0085_M004",
+    "prescription_id": "AMNIN_RX_0085",
+    "raw_medication_text": "Tab Neurobion Forte",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0085_M005",
+    "prescription_id": "AMNIN_RX_0085",
+    "raw_medication_text": "Cap Irazole DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0086_M001",
+    "prescription_id": "AMNIN_RX_0086",
+    "raw_medication_text": "Tab Montair-LC",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0086_M002",
+    "prescription_id": "AMNIN_RX_0086",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "SOS TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0086_M003",
+    "prescription_id": "AMNIN_RX_0086",
+    "raw_medication_text": "Steam inhalation",
+    "visible_strength": "",
+    "visible_form": "bottle",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0086_M004",
+    "prescription_id": "AMNIN_RX_0086",
+    "raw_medication_text": "Tab Irazole-DSR",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0086_M005",
+    "prescription_id": "AMNIN_RX_0086",
+    "raw_medication_text": "ORS water",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0087_M001",
+    "prescription_id": "AMNIN_RX_0087",
+    "raw_medication_text": "Tab Volibo 300 mcg",
+    "visible_strength": "300mcg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0087_M002",
+    "prescription_id": "AMNIN_RX_0087",
+    "raw_medication_text": "Tab Rifagut 550 mg",
+    "visible_strength": "550mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0087_M003",
+    "prescription_id": "AMNIN_RX_0087",
+    "raw_medication_text": "Syp Looz",
+    "visible_strength": "15ml",
+    "visible_form": "syrup",
+    "visible_route": "PO",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0087_M004",
+    "prescription_id": "AMNIN_RX_0087",
+    "raw_medication_text": "Tab Drotin Plus",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0087_M005",
+    "prescription_id": "AMNIN_RX_0087",
+    "raw_medication_text": "Inj Pan 40 mg",
+    "visible_strength": "40mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0087_M006",
+    "prescription_id": "AMNIN_RX_0087",
+    "raw_medication_text": "Inj Emset 4 mg",
+    "visible_strength": "4mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0087_M007",
+    "prescription_id": "AMNIN_RX_0087",
+    "raw_medication_text": "Inj PCM 1 gm",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0087_M008",
+    "prescription_id": "AMNIN_RX_0087",
+    "raw_medication_text": "Inj Monocef 1 gm",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0088_M001",
+    "prescription_id": "AMNIN_RX_0088",
+    "raw_medication_text": "Inj Monocef 1 g",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0088_M002",
+    "prescription_id": "AMNIN_RX_0088",
+    "raw_medication_text": "Inj Pan 40 mg",
+    "visible_strength": "40mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0088_M003",
+    "prescription_id": "AMNIN_RX_0088",
+    "raw_medication_text": "Inj Emset 4 mg",
+    "visible_strength": "4mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0088_M004",
+    "prescription_id": "AMNIN_RX_0088",
+    "raw_medication_text": "Inj Optineuron",
+    "visible_strength": "10ml",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0088_M005",
+    "prescription_id": "AMNIN_RX_0088",
+    "raw_medication_text": "Tab Azee 500 mg",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0088_M006",
+    "prescription_id": "AMNIN_RX_0088",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0090_M001",
+    "prescription_id": "AMNIN_RX_0090",
+    "raw_medication_text": "Tab Emset 4 mg",
+    "visible_strength": "4mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0090_M002",
+    "prescription_id": "AMNIN_RX_0090",
+    "raw_medication_text": "Cap Cyra-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0090_M003",
+    "prescription_id": "AMNIN_RX_0090",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0091_M001",
+    "prescription_id": "AMNIN_RX_0091",
+    "raw_medication_text": "Tab Azee 500 mg",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0091_M002",
+    "prescription_id": "AMNIN_RX_0091",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0091_M003",
+    "prescription_id": "AMNIN_RX_0091",
+    "raw_medication_text": "Tab Levobeta-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0091_M004",
+    "prescription_id": "AMNIN_RX_0091",
+    "raw_medication_text": "Cap Cyra-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0091_M005",
+    "prescription_id": "AMNIN_RX_0091",
+    "raw_medication_text": "Tab Hifenac-LT / Hifenac",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0091_M006",
+    "prescription_id": "AMNIN_RX_0091",
+    "raw_medication_text": "Betadine gargles",
+    "visible_strength": "",
+    "visible_form": "",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0092_M001",
+    "prescription_id": "AMNIN_RX_0092",
+    "raw_medication_text": "Inj Optineuron",
+    "visible_strength": "10ml",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0092_M002",
+    "prescription_id": "AMNIN_RX_0092",
+    "raw_medication_text": "Inj Pan 40 mg",
+    "visible_strength": "40mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0092_M003",
+    "prescription_id": "AMNIN_RX_0092",
+    "raw_medication_text": "Tab Seropenem / Seropenem 750",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0093_M001",
+    "prescription_id": "AMNIN_RX_0093",
+    "raw_medication_text": "Tab Dytor 5 mg",
+    "visible_strength": "5mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0093_M002",
+    "prescription_id": "AMNIN_RX_0093",
+    "raw_medication_text": "Tab Dilzem CD 90 mg",
+    "visible_strength": "90mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0093_M003",
+    "prescription_id": "AMNIN_RX_0093",
+    "raw_medication_text": "Tab Warf 2 mg",
+    "visible_strength": "2mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0093_M004",
+    "prescription_id": "AMNIN_RX_0093",
+    "raw_medication_text": "Inj Pan 40 mg",
+    "visible_strength": "40mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0093_M005",
+    "prescription_id": "AMNIN_RX_0093",
+    "raw_medication_text": "Inj Emset 4 mg",
+    "visible_strength": "4mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0093_M006",
+    "prescription_id": "AMNIN_RX_0093",
+    "raw_medication_text": "Inj Optineuron",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0093_M007",
+    "prescription_id": "AMNIN_RX_0093",
+    "raw_medication_text": "Inj Monocef",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0093_M008",
+    "prescription_id": "AMNIN_RX_0093",
+    "raw_medication_text": "Inj Benzathine Penicillin",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "IM",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0094_M001",
+    "prescription_id": "AMNIN_RX_0094",
+    "raw_medication_text": "Tab Augmentin Duo 625 mg",
+    "visible_strength": "625mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0094_M002",
+    "prescription_id": "AMNIN_RX_0094",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0094_M003",
+    "prescription_id": "AMNIN_RX_0094",
+    "raw_medication_text": "Syp Ashtakind DX",
+    "visible_strength": "",
+    "visible_form": "syrup",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0094_M004",
+    "prescription_id": "AMNIN_RX_0094",
+    "raw_medication_text": "Cap Cyra-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0094_M005",
+    "prescription_id": "AMNIN_RX_0094",
+    "raw_medication_text": "Tab Irisomax-LC",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0095_M001",
+    "prescription_id": "AMNIN_RX_0095",
+    "raw_medication_text": "Tab Augmentin Duo 625",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0095_M002",
+    "prescription_id": "AMNIN_RX_0095",
+    "raw_medication_text": "Tab Montair-LC",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0095_M003",
+    "prescription_id": "AMNIN_RX_0095",
+    "raw_medication_text": "Tab AB-Flo-N",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0095_M004",
+    "prescription_id": "AMNIN_RX_0095",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0095_M005",
+    "prescription_id": "AMNIN_RX_0095",
+    "raw_medication_text": "Cap Irazole DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0095_M006",
+    "prescription_id": "AMNIN_RX_0095",
+    "raw_medication_text": "Tab Neurobion Forte",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0096_M001",
+    "prescription_id": "AMNIN_RX_0096",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0096_M002",
+    "prescription_id": "AMNIN_RX_0096",
+    "raw_medication_text": "Tab Ebast-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0096_M003",
+    "prescription_id": "AMNIN_RX_0096",
+    "raw_medication_text": "Tab Irilovit / Irilovit",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0096_M004",
+    "prescription_id": "AMNIN_RX_0096",
+    "raw_medication_text": "Tab Azee 500 mg",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0096_M005",
+    "prescription_id": "AMNIN_RX_0096",
+    "raw_medication_text": "Cap Cyra-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0097_M001",
+    "prescription_id": "AMNIN_RX_0097",
+    "raw_medication_text": "Inj Pan 40 mg",
+    "visible_strength": "40mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0097_M002",
+    "prescription_id": "AMNIN_RX_0097",
+    "raw_medication_text": "Inj Emset 8 mg",
+    "visible_strength": "8mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0097_M003",
+    "prescription_id": "AMNIN_RX_0097",
+    "raw_medication_text": "Tab Sogat Plus / Sobrat Plus",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0098_M001",
+    "prescription_id": "AMNIN_RX_0098",
+    "raw_medication_text": "Tab Azee 500 mg",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0098_M002",
+    "prescription_id": "AMNIN_RX_0098",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0098_M003",
+    "prescription_id": "AMNIN_RX_0098",
+    "raw_medication_text": "Cap Cyra-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0098_M004",
+    "prescription_id": "AMNIN_RX_0098",
+    "raw_medication_text": "Tab Limcee 500 mg",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0099_M001",
+    "prescription_id": "AMNIN_RX_0099",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0099_M002",
+    "prescription_id": "AMNIN_RX_0099",
+    "raw_medication_text": "Syp Ascoril-D",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0099_M003",
+    "prescription_id": "AMNIN_RX_0099",
+    "raw_medication_text": "Tab Azee 500 mg",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0099_M004",
+    "prescription_id": "AMNIN_RX_0099",
+    "raw_medication_text": "Cap Cyra-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0099_M005",
+    "prescription_id": "AMNIN_RX_0099",
+    "raw_medication_text": "Tab Shelcal",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0099_M006",
+    "prescription_id": "AMNIN_RX_0099",
+    "raw_medication_text": "Tab Neurobion",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0100_M001",
+    "prescription_id": "AMNIN_RX_0100",
+    "raw_medication_text": "Tab Bandy Plus",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0100_M002",
+    "prescription_id": "AMNIN_RX_0100",
+    "raw_medication_text": "Inj Monocef",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0100_M003",
+    "prescription_id": "AMNIN_RX_0100",
+    "raw_medication_text": "Inj Optineuron",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0100_M004",
+    "prescription_id": "AMNIN_RX_0100",
+    "raw_medication_text": "Inj Emset 4 mg",
+    "visible_strength": "4mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0100_M005",
+    "prescription_id": "AMNIN_RX_0100",
+    "raw_medication_text": "Inj Pan 40 mg",
+    "visible_strength": "40mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0100_M006",
+    "prescription_id": "AMNIN_RX_0100",
+    "raw_medication_text": "Tab Iriscefer-XT",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0100_M007",
+    "prescription_id": "AMNIN_RX_0100",
+    "raw_medication_text": "Tab Shelcal",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0101_M001",
+    "prescription_id": "AMNIN_RX_0101",
+    "raw_medication_text": "Tab Bandy Plus",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0101_M002",
+    "prescription_id": "AMNIN_RX_0101",
+    "raw_medication_text": "Inj Monocef",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0101_M003",
+    "prescription_id": "AMNIN_RX_0101",
+    "raw_medication_text": "Inj Optineuron",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0101_M004",
+    "prescription_id": "AMNIN_RX_0101",
+    "raw_medication_text": "Inj Emset 4 mg",
+    "visible_strength": "4mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0101_M005",
+    "prescription_id": "AMNIN_RX_0101",
+    "raw_medication_text": "Inj Pan 40 mg",
+    "visible_strength": "40mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0101_M006",
+    "prescription_id": "AMNIN_RX_0101",
+    "raw_medication_text": "Tab Iriscefer-XT",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0101_M007",
+    "prescription_id": "AMNIN_RX_0101",
+    "raw_medication_text": "Tab Shelcal",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0102_M001",
+    "prescription_id": "AMNIN_RX_0102",
+    "raw_medication_text": "IVF NS",
+    "visible_strength": "60ml",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0102_M002",
+    "prescription_id": "AMNIN_RX_0102",
+    "raw_medication_text": "Inj Monocef",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0102_M003",
+    "prescription_id": "AMNIN_RX_0102",
+    "raw_medication_text": "Inj PCM",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0102_M004",
+    "prescription_id": "AMNIN_RX_0102",
+    "raw_medication_text": "Inj Pan 40 mg",
+    "visible_strength": "40mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0102_M005",
+    "prescription_id": "AMNIN_RX_0102",
+    "raw_medication_text": "Inj Emset 4 mg",
+    "visible_strength": "4mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0102_M006",
+    "prescription_id": "AMNIN_RX_0102",
+    "raw_medication_text": "Inj Tramadol",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0103_M001",
+    "prescription_id": "AMNIN_RX_0103",
+    "raw_medication_text": "Tab A to Z",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0103_M002",
+    "prescription_id": "AMNIN_RX_0103",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0104_M001",
+    "prescription_id": "AMNIN_RX_0104",
+    "raw_medication_text": "Tab Acurit-3",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0104_M002",
+    "prescription_id": "AMNIN_RX_0104",
+    "raw_medication_text": "Tab Benadon 40 mg",
+    "visible_strength": "40mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0104_M003",
+    "prescription_id": "AMNIN_RX_0104",
+    "raw_medication_text": "Tab Syntran 130 mg",
+    "visible_strength": "130mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0104_M004",
+    "prescription_id": "AMNIN_RX_0104",
+    "raw_medication_text": "Tab Osteofos 70 mg",
+    "visible_strength": "70mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "once weekly"
+  },
+  {
+    "mention_id": "AMNIN_RX_0104_M005",
+    "prescription_id": "AMNIN_RX_0104",
+    "raw_medication_text": "Cap Uprise D3 60K",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "once weekly"
+  },
+  {
+    "mention_id": "AMNIN_RX_0104_M006",
+    "prescription_id": "AMNIN_RX_0104",
+    "raw_medication_text": "Cap Omez-DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0104_M007",
+    "prescription_id": "AMNIN_RX_0104",
+    "raw_medication_text": "Tab Atorvas 20 mg",
+    "visible_strength": "20mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0104_M008",
+    "prescription_id": "AMNIN_RX_0104",
+    "raw_medication_text": "Tab Supracal 2000",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0104_M009",
+    "prescription_id": "AMNIN_RX_0104",
+    "raw_medication_text": "Neb / Air-Z FB",
+    "visible_strength": "",
+    "visible_form": "",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0104_M010",
+    "prescription_id": "AMNIN_RX_0104",
+    "raw_medication_text": "Tab Bact ointment",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0104_M011",
+    "prescription_id": "AMNIN_RX_0104",
+    "raw_medication_text": "Fungi Cross ointment",
+    "visible_strength": "",
+    "visible_form": "ointment",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0104_M012",
+    "prescription_id": "AMNIN_RX_0104",
+    "raw_medication_text": "Cap Becosule",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0104_M013",
+    "prescription_id": "AMNIN_RX_0104",
+    "raw_medication_text": "Syp Sucralfate-O",
+    "visible_strength": "",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0104_M014",
+    "prescription_id": "AMNIN_RX_0104",
+    "raw_medication_text": "Tab Domstal-MD",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0105_M001",
+    "prescription_id": "AMNIN_RX_0105",
+    "raw_medication_text": "Cap Cyra-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0105_M002",
+    "prescription_id": "AMNIN_RX_0105",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0105_M003",
+    "prescription_id": "AMNIN_RX_0105",
+    "raw_medication_text": "Tab Zinvovit",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0105_M004",
+    "prescription_id": "AMNIN_RX_0105",
+    "raw_medication_text": "Cap Bifilac HP",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0106_M001",
+    "prescription_id": "AMNIN_RX_0106",
+    "raw_medication_text": "Tab Augmentin Duo 625",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0106_M002",
+    "prescription_id": "AMNIN_RX_0106",
+    "raw_medication_text": "Tab Cobart-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0106_M003",
+    "prescription_id": "AMNIN_RX_0106",
+    "raw_medication_text": "Syp Reswas-LS",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0106_M004",
+    "prescription_id": "AMNIN_RX_0106",
+    "raw_medication_text": "Cap Irazole DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0106_M005",
+    "prescription_id": "AMNIN_RX_0106",
+    "raw_medication_text": "Tab AB-Flo-N",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0106_M006",
+    "prescription_id": "AMNIN_RX_0106",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0107_M001",
+    "prescription_id": "AMNIN_RX_0107",
+    "raw_medication_text": "Cap Irazole DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0107_M002",
+    "prescription_id": "AMNIN_RX_0107",
+    "raw_medication_text": "Tab Iriscout OD",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0107_M003",
+    "prescription_id": "AMNIN_RX_0107",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0107_M004",
+    "prescription_id": "AMNIN_RX_0107",
+    "raw_medication_text": "Tab Drotin DS",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0108_M001",
+    "prescription_id": "AMNIN_RX_0108",
+    "raw_medication_text": "Tab Azee 500 mg",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0108_M002",
+    "prescription_id": "AMNIN_RX_0108",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0108_M003",
+    "prescription_id": "AMNIN_RX_0108",
+    "raw_medication_text": "Cap Irazole DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0108_M004",
+    "prescription_id": "AMNIN_RX_0108",
+    "raw_medication_text": "Betadine gargle",
+    "visible_strength": "",
+    "visible_form": "bottle",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0109_M001",
+    "prescription_id": "AMNIN_RX_0109",
+    "raw_medication_text": "Syp Alex",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0109_M002",
+    "prescription_id": "AMNIN_RX_0109",
+    "raw_medication_text": "Tab Montair FX",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0109_M003",
+    "prescription_id": "AMNIN_RX_0109",
+    "raw_medication_text": "Steam inhalation",
+    "visible_strength": "",
+    "visible_form": "bottle",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0109_M004",
+    "prescription_id": "AMNIN_RX_0109",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0109_M005",
+    "prescription_id": "AMNIN_RX_0109",
+    "raw_medication_text": "Tab Irisovit Plus",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0109_M006",
+    "prescription_id": "AMNIN_RX_0109",
+    "raw_medication_text": "Tab Calshine CM",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0110_M001",
+    "prescription_id": "AMNIN_RX_0110",
+    "raw_medication_text": "Tab Montair-LC",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0110_M002",
+    "prescription_id": "AMNIN_RX_0110",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0110_M003",
+    "prescription_id": "AMNIN_RX_0110",
+    "raw_medication_text": "Steam inhalation with Karvol Plus capsule",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0110_M004",
+    "prescription_id": "AMNIN_RX_0110",
+    "raw_medication_text": "Syp Alex",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0111_M001",
+    "prescription_id": "AMNIN_RX_0111",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0111_M002",
+    "prescription_id": "AMNIN_RX_0111",
+    "raw_medication_text": "Tab Montair FX",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0111_M003",
+    "prescription_id": "AMNIN_RX_0111",
+    "raw_medication_text": "Syp Alex",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0111_M004",
+    "prescription_id": "AMNIN_RX_0111",
+    "raw_medication_text": "Tab Augmentin 625 mg",
+    "visible_strength": "625mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0111_M005",
+    "prescription_id": "AMNIN_RX_0111",
+    "raw_medication_text": "Cap Omez-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0111_M006",
+    "prescription_id": "AMNIN_RX_0111",
+    "raw_medication_text": "Tab Histovit Plus",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0112_M001",
+    "prescription_id": "AMNIN_RX_0112",
+    "raw_medication_text": "Tab Azax / Azee 500",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0112_M002",
+    "prescription_id": "AMNIN_RX_0112",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0112_M003",
+    "prescription_id": "AMNIN_RX_0112",
+    "raw_medication_text": "Tab Allegra",
+    "visible_strength": "10mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0112_M004",
+    "prescription_id": "AMNIN_RX_0112",
+    "raw_medication_text": "Syp Reswas",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0112_M005",
+    "prescription_id": "AMNIN_RX_0112",
+    "raw_medication_text": "Cap Cyra-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0113_M001",
+    "prescription_id": "AMNIN_RX_0113",
+    "raw_medication_text": "Tab Cyra-D long / Cyra-D",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0113_M002",
+    "prescription_id": "AMNIN_RX_0113",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0114_M001",
+    "prescription_id": "AMNIN_RX_0114",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0114_M002",
+    "prescription_id": "AMNIN_RX_0114",
+    "raw_medication_text": "Cap Cyra-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0114_M003",
+    "prescription_id": "AMNIN_RX_0114",
+    "raw_medication_text": "Tab Acupan / Alerpan 10 mg",
+    "visible_strength": "10mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0114_M004",
+    "prescription_id": "AMNIN_RX_0114",
+    "raw_medication_text": "Syp Alex",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0114_M005",
+    "prescription_id": "AMNIN_RX_0114",
+    "raw_medication_text": "Betadine gargle",
+    "visible_strength": "",
+    "visible_form": "bottle",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0115_M001",
+    "prescription_id": "AMNIN_RX_0115",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0115_M002",
+    "prescription_id": "AMNIN_RX_0115",
+    "raw_medication_text": "Tab Montair FX",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0115_M003",
+    "prescription_id": "AMNIN_RX_0115",
+    "raw_medication_text": "ORS sachet",
+    "visible_strength": "",
+    "visible_form": "sachet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0115_M004",
+    "prescription_id": "AMNIN_RX_0115",
+    "raw_medication_text": "Tab Irisovit Plus",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0115_M005",
+    "prescription_id": "AMNIN_RX_0115",
+    "raw_medication_text": "Tab Calshine CM",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0116_M001",
+    "prescription_id": "AMNIN_RX_0116",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0116_M002",
+    "prescription_id": "AMNIN_RX_0116",
+    "raw_medication_text": "Cap Doxycycline 100 mg",
+    "visible_strength": "100mg",
+    "visible_form": "capsule",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0116_M003",
+    "prescription_id": "AMNIN_RX_0116",
+    "raw_medication_text": "Tab Meftal Forte",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0117_M001",
+    "prescription_id": "AMNIN_RX_0117",
+    "raw_medication_text": "Tab Augmentin Duo 625",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0117_M002",
+    "prescription_id": "AMNIN_RX_0117",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0117_M003",
+    "prescription_id": "AMNIN_RX_0117",
+    "raw_medication_text": "Tab Ebat-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0118_M001",
+    "prescription_id": "AMNIN_RX_0118",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0118_M002",
+    "prescription_id": "AMNIN_RX_0118",
+    "raw_medication_text": "Tab Montair-LC",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0118_M003",
+    "prescription_id": "AMNIN_RX_0118",
+    "raw_medication_text": "Cap Irazole DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0118_M004",
+    "prescription_id": "AMNIN_RX_0118",
+    "raw_medication_text": "Tab Neurobion Forte",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0119_M001",
+    "prescription_id": "AMNIN_RX_0119",
+    "raw_medication_text": "Tab Augmentin Duo 625",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0119_M002",
+    "prescription_id": "AMNIN_RX_0119",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0119_M003",
+    "prescription_id": "AMNIN_RX_0119",
+    "raw_medication_text": "Syp Reswas",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0119_M004",
+    "prescription_id": "AMNIN_RX_0119",
+    "raw_medication_text": "Tab Montair-LC",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0119_M005",
+    "prescription_id": "AMNIN_RX_0119",
+    "raw_medication_text": "Cap Irazole DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0120_M001",
+    "prescription_id": "AMNIN_RX_0120",
+    "raw_medication_text": "Inj Pan 40 mg",
+    "visible_strength": "40mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0120_M002",
+    "prescription_id": "AMNIN_RX_0120",
+    "raw_medication_text": "Inj Emset 4 mg",
+    "visible_strength": "4mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0120_M003",
+    "prescription_id": "AMNIN_RX_0120",
+    "raw_medication_text": "Inj Mol 1 gm",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0120_M004",
+    "prescription_id": "AMNIN_RX_0120",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0120_M005",
+    "prescription_id": "AMNIN_RX_0120",
+    "raw_medication_text": "Inj Optineuron",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0120_M006",
+    "prescription_id": "AMNIN_RX_0120",
+    "raw_medication_text": "Inj Augmentin",
+    "visible_strength": "1.2g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0120_M007",
+    "prescription_id": "AMNIN_RX_0120",
+    "raw_medication_text": "Tab Montair-LC",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0121_M001",
+    "prescription_id": "AMNIN_RX_0121",
+    "raw_medication_text": "Tab Thyronorm",
+    "visible_strength": "100mcg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0121_M002",
+    "prescription_id": "AMNIN_RX_0121",
+    "raw_medication_text": "Tab Martifur / Nitrofurantoin",
+    "visible_strength": "100mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0121_M003",
+    "prescription_id": "AMNIN_RX_0121",
+    "raw_medication_text": "Syp Ketrason Alka / Ketrasol Alka",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0121_M004",
+    "prescription_id": "AMNIN_RX_0121",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0122_M001",
+    "prescription_id": "AMNIN_RX_0122",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0122_M002",
+    "prescription_id": "AMNIN_RX_0122",
+    "raw_medication_text": "Tab Zinvovit",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0122_M003",
+    "prescription_id": "AMNIN_RX_0122",
+    "raw_medication_text": "Cap Cyra-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0122_M004",
+    "prescription_id": "AMNIN_RX_0122",
+    "raw_medication_text": "Cap Bifilac HP",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0124_M001",
+    "prescription_id": "AMNIN_RX_0124",
+    "raw_medication_text": "Syp Reswas",
+    "visible_strength": "",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0124_M002",
+    "prescription_id": "AMNIN_RX_0124",
+    "raw_medication_text": "Steam inhalation",
+    "visible_strength": "",
+    "visible_form": "bottle",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0124_M003",
+    "prescription_id": "AMNIN_RX_0124",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0124_M004",
+    "prescription_id": "AMNIN_RX_0124",
+    "raw_medication_text": "Tab Zinvovit",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0125_M001",
+    "prescription_id": "AMNIN_RX_0125",
+    "raw_medication_text": "Tab Augmentin Duo 625",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0125_M002",
+    "prescription_id": "AMNIN_RX_0125",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0125_M003",
+    "prescription_id": "AMNIN_RX_0125",
+    "raw_medication_text": "Tab Cobart-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0125_M004",
+    "prescription_id": "AMNIN_RX_0125",
+    "raw_medication_text": "Cap Irazole DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0125_M005",
+    "prescription_id": "AMNIN_RX_0125",
+    "raw_medication_text": "Tab Neurobion Forte",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0126_M001",
+    "prescription_id": "AMNIN_RX_0126",
+    "raw_medication_text": "Tab Zifi-O 200 mg",
+    "visible_strength": "200mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0126_M002",
+    "prescription_id": "AMNIN_RX_0126",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0126_M003",
+    "prescription_id": "AMNIN_RX_0126",
+    "raw_medication_text": "Syp Sucrafil-O",
+    "visible_strength": "20ml",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0127_M001",
+    "prescription_id": "AMNIN_RX_0127",
+    "raw_medication_text": "Cap Pan DSR 40 mg",
+    "visible_strength": "40mg",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0127_M002",
+    "prescription_id": "AMNIN_RX_0127",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0127_M003",
+    "prescription_id": "AMNIN_RX_0127",
+    "raw_medication_text": "Tab Azee 500 mg",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0127_M004",
+    "prescription_id": "AMNIN_RX_0127",
+    "raw_medication_text": "Tab Augmentin 625 mg",
+    "visible_strength": "625mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0127_M005",
+    "prescription_id": "AMNIN_RX_0127",
+    "raw_medication_text": "Tab Cobart-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0127_M006",
+    "prescription_id": "AMNIN_RX_0127",
+    "raw_medication_text": "Syp Reswas",
+    "visible_strength": "",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0127_M007",
+    "prescription_id": "AMNIN_RX_0127",
+    "raw_medication_text": "Tab Irisovit OD",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0129_M001",
+    "prescription_id": "AMNIN_RX_0129",
+    "raw_medication_text": "Tab Augmentin Duo 625 mg",
+    "visible_strength": "625mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0129_M002",
+    "prescription_id": "AMNIN_RX_0129",
+    "raw_medication_text": "Tab Bilazest-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0129_M003",
+    "prescription_id": "AMNIN_RX_0129",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0129_M004",
+    "prescription_id": "AMNIN_RX_0129",
+    "raw_medication_text": "Tab Iriscout-OD",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0130_M001",
+    "prescription_id": "AMNIN_RX_0130",
+    "raw_medication_text": "Tab Azee 500 mg",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0130_M002",
+    "prescription_id": "AMNIN_RX_0130",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0130_M003",
+    "prescription_id": "AMNIN_RX_0130",
+    "raw_medication_text": "Tab Levobeta-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0130_M004",
+    "prescription_id": "AMNIN_RX_0130",
+    "raw_medication_text": "Cap Irazole DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0131_M001",
+    "prescription_id": "AMNIN_RX_0131",
+    "raw_medication_text": "Tab Cyra-D",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0131_M002",
+    "prescription_id": "AMNIN_RX_0131",
+    "raw_medication_text": "Candid-CL pessary",
+    "visible_strength": "",
+    "visible_form": "",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0131_M003",
+    "prescription_id": "AMNIN_RX_0131",
+    "raw_medication_text": "Tab Irisocvit",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0131_M004",
+    "prescription_id": "AMNIN_RX_0131",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0132_M001",
+    "prescription_id": "AMNIN_RX_0132",
+    "raw_medication_text": "Tab Augmentin 625 mg",
+    "visible_strength": "625mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0132_M002",
+    "prescription_id": "AMNIN_RX_0132",
+    "raw_medication_text": "Tab Bilazest-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0132_M003",
+    "prescription_id": "AMNIN_RX_0132",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0132_M004",
+    "prescription_id": "AMNIN_RX_0132",
+    "raw_medication_text": "Tab Cyra-D",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0132_M005",
+    "prescription_id": "AMNIN_RX_0132",
+    "raw_medication_text": "Tab Ondem",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0133_M001",
+    "prescription_id": "AMNIN_RX_0133",
+    "raw_medication_text": "Tab Cyra-D",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0133_M002",
+    "prescription_id": "AMNIN_RX_0133",
+    "raw_medication_text": "Tab Meftal 400 mg",
+    "visible_strength": "400mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0133_M003",
+    "prescription_id": "AMNIN_RX_0133",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0133_M004",
+    "prescription_id": "AMNIN_RX_0133",
+    "raw_medication_text": "Syp Sucralfil-O",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0134_M001",
+    "prescription_id": "AMNIN_RX_0134",
+    "raw_medication_text": "Tab Augmentin 625 mg",
+    "visible_strength": "625mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0134_M002",
+    "prescription_id": "AMNIN_RX_0134",
+    "raw_medication_text": "Tab Bilazest-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0134_M003",
+    "prescription_id": "AMNIN_RX_0134",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0134_M004",
+    "prescription_id": "AMNIN_RX_0134",
+    "raw_medication_text": "Tab Cyra-D",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0134_M005",
+    "prescription_id": "AMNIN_RX_0134",
+    "raw_medication_text": "Tab Ondem",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0135_M001",
+    "prescription_id": "AMNIN_RX_0135",
+    "raw_medication_text": "Tab Cylden / Cyra-D",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0135_M002",
+    "prescription_id": "AMNIN_RX_0135",
+    "raw_medication_text": "Cap Cyra-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0135_M003",
+    "prescription_id": "AMNIN_RX_0135",
+    "raw_medication_text": "Syp Sucralfil",
+    "visible_strength": "",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0135_M004",
+    "prescription_id": "AMNIN_RX_0135",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0136_M001",
+    "prescription_id": "AMNIN_RX_0136",
+    "raw_medication_text": "Tab Augmentin Duo 625 mg",
+    "visible_strength": "625mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0136_M002",
+    "prescription_id": "AMNIN_RX_0136",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0136_M003",
+    "prescription_id": "AMNIN_RX_0136",
+    "raw_medication_text": "Tab Iriscovit-OD",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0137_M001",
+    "prescription_id": "AMNIN_RX_0137",
+    "raw_medication_text": "Cap Pan-D / Irazole DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0137_M002",
+    "prescription_id": "AMNIN_RX_0137",
+    "raw_medication_text": "Tab Imecal / calcium medicine",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0137_M003",
+    "prescription_id": "AMNIN_RX_0137",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0138_M001",
+    "prescription_id": "AMNIN_RX_0138",
+    "raw_medication_text": "Inj Monocef",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0138_M002",
+    "prescription_id": "AMNIN_RX_0138",
+    "raw_medication_text": "Inj Pan 40 mg",
+    "visible_strength": "40mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0138_M003",
+    "prescription_id": "AMNIN_RX_0138",
+    "raw_medication_text": "Inj Emset 4 mg",
+    "visible_strength": "4mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0138_M004",
+    "prescription_id": "AMNIN_RX_0138",
+    "raw_medication_text": "Inj Mol 1 gm",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0138_M005",
+    "prescription_id": "AMNIN_RX_0138",
+    "raw_medication_text": "Inj Optineuron",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0139_M001",
+    "prescription_id": "AMNIN_RX_0139",
+    "raw_medication_text": "Tab Azee 500 mg",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0139_M002",
+    "prescription_id": "AMNIN_RX_0139",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0139_M003",
+    "prescription_id": "AMNIN_RX_0139",
+    "raw_medication_text": "Syp Sucral",
+    "visible_strength": "15ml",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0140_M001",
+    "prescription_id": "AMNIN_RX_0140",
+    "raw_medication_text": "Tab Drotin DS",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0140_M002",
+    "prescription_id": "AMNIN_RX_0140",
+    "raw_medication_text": "Cap Irazole DSR",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0140_M003",
+    "prescription_id": "AMNIN_RX_0140",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0141_M001",
+    "prescription_id": "AMNIN_RX_0141",
+    "raw_medication_text": "Tab Azee 500 mg",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0141_M002",
+    "prescription_id": "AMNIN_RX_0141",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0141_M003",
+    "prescription_id": "AMNIN_RX_0141",
+    "raw_medication_text": "Cap Irazole DSR / Cyra-D",
+    "visible_strength": "",
+    "visible_form": "capsule",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0141_M004",
+    "prescription_id": "AMNIN_RX_0141",
+    "raw_medication_text": "Syp cough medicine",
+    "visible_strength": "",
+    "visible_form": "syrup",
+    "visible_route": "",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0141_M005",
+    "prescription_id": "AMNIN_RX_0141",
+    "raw_medication_text": "Tab Levocet-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0142_M001",
+    "prescription_id": "AMNIN_RX_0142",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0142_M002",
+    "prescription_id": "AMNIN_RX_0142",
+    "raw_medication_text": "Tab Azee 500 mg",
+    "visible_strength": "500mg",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0142_M003",
+    "prescription_id": "AMNIN_RX_0142",
+    "raw_medication_text": "Tab Levocet / Montair",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "",
+    "visible_frequency": "HS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0143_M001",
+    "prescription_id": "AMNIN_RX_0143",
+    "raw_medication_text": "Tab Augmentin 625 mg",
+    "visible_strength": "625mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0143_M002",
+    "prescription_id": "AMNIN_RX_0143",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0143_M003",
+    "prescription_id": "AMNIN_RX_0143",
+    "raw_medication_text": "Tab Bilazest-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0144_M001",
+    "prescription_id": "AMNIN_RX_0144",
+    "raw_medication_text": "Tab Cyra-D",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0144_M002",
+    "prescription_id": "AMNIN_RX_0144",
+    "raw_medication_text": "Tab Vild/M 50/100",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0144_M003",
+    "prescription_id": "AMNIN_RX_0144",
+    "raw_medication_text": "Syp Sucralfil-O",
+    "visible_strength": "10ml",
+    "visible_form": "syrup",
+    "visible_route": "PO",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0144_M004",
+    "prescription_id": "AMNIN_RX_0144",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0144_M005",
+    "prescription_id": "AMNIN_RX_0144",
+    "raw_medication_text": "Tab Drotin-M",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "BD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0145_M001",
+    "prescription_id": "AMNIN_RX_0145",
+    "raw_medication_text": "Inj Pan 40 mg",
+    "visible_strength": "40mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0145_M002",
+    "prescription_id": "AMNIN_RX_0145",
+    "raw_medication_text": "Inj Emset 4 mg",
+    "visible_strength": "4mg",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0145_M003",
+    "prescription_id": "AMNIN_RX_0145",
+    "raw_medication_text": "Inj Mol 1 gm",
+    "visible_strength": "1g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "SOS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0145_M004",
+    "prescription_id": "AMNIN_RX_0145",
+    "raw_medication_text": "Tab Dolo 650 mg",
+    "visible_strength": "650mg",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "TDS"
+  },
+  {
+    "mention_id": "AMNIN_RX_0145_M005",
+    "prescription_id": "AMNIN_RX_0145",
+    "raw_medication_text": "Inj Optineuron",
+    "visible_strength": "",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": "OD"
+  },
+  {
+    "mention_id": "AMNIN_RX_0145_M006",
+    "prescription_id": "AMNIN_RX_0145",
+    "raw_medication_text": "Inj Augmentin 1.2 gm",
+    "visible_strength": "1.2g",
+    "visible_form": "injection",
+    "visible_route": "IV",
+    "visible_frequency": ""
+  },
+  {
+    "mention_id": "AMNIN_RX_0145_M007",
+    "prescription_id": "AMNIN_RX_0145",
+    "raw_medication_text": "Tab Montair-LC",
+    "visible_strength": "",
+    "visible_form": "tablet",
+    "visible_route": "PO",
+    "visible_frequency": "HS"
+  }
+]

@@ -1,8 +1,0 @@
-step,stage
-1,surface mention
-2,R1-R5 retrieval
-3,candidate union
-4,RRF k=60
-5,evidence assessment
-6,verification
-7,Layer-B identity + provenance

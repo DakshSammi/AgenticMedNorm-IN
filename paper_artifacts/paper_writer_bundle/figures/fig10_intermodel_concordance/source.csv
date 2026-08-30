@@ -1,4 +1,0 @@
-comparison,common_N,mapping_agreement,mapping_kappa,routing_agreement,routing_kappa,mapping_agreement_pct
-Terra vs Qwen,51,0.5882,0.3442,0.5882,0.1439,58.81999999999999
-GPT-OSS vs Qwen,18,0.8333,0.7416,0.4444,0.2469,83.33
-Terra vs GPT-OSS,18,0.5556,0.3872,0.3333,-0.1368,55.559999999999995

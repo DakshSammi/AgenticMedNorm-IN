@@ -26,7 +26,11 @@ prescription_pipeline_jbhi_ieee/anonymized/
 prescription_pipeline_jbhi_ieee/ground_truths_json/
 *.pdf
 !paper_artifacts/figures/**/*.pdf
-!paper_artifacts/paper_writer_bundle/figures/**/*.pdf
+
+# ---------------------------------------------------------------------------
+# Dataset internal mapping (contains internal IDs)
+# ---------------------------------------------------------------------------
+dataset/llm_audited_150/crosswalk.json
 
 # ---------------------------------------------------------------------------
 # Benchmark outputs (large, run-specific, contain patient text in raw form)

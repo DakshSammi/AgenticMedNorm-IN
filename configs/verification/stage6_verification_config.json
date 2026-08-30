@@ -1,8 +1,0 @@
-{
-  "verification": {
-    "accept_min_lexical_status": "MATCH",
-    "allow_quarantine_exact_product_accept": false,
-    "allow_rxnorm_only_accept": true,
-    "max_candidates_considered": 20
-  }
-}

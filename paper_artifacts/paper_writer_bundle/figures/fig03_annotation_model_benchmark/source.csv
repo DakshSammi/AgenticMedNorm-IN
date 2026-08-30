@@ -1,6 +1,0 @@
-representative_role,track,paper_display_name,model_category,open_or_closed,N_valid,coverage,primary_score,95CI_lower,95CI_upper,runtime_seconds,publication_status,is_alias,label
-GPT-5.5,hybrid,GPT-5.5,PROPRIETARY,CLOSED,125,125/125,0.9134,0.8998,0.9261,4.21,PRIMARY TABLE,,GPT-5.5: GPT-5.5
-best valid proprietary comparator,direct_vlm,Gemini 2.5 Flash,PROPRIETARY,CLOSED,125,125/125,0.3530744,0.34067984,0.36583414,,PRIMARY TABLE,,best valid proprietary comparator: Gemini 2.5 Flash
-best valid open/open-weight direct VLM,direct_vlm,Qwen3-27B,OPEN_WEIGHT_VLM,OPEN,125,125/125,0.3563016,0.3445136,0.36826606,,PRIMARY TABLE,,best valid open/open-weight direct VLM: Qwen3-27B
-best valid conventional OCR,raw_ocr,Qwen3-VL (OCR mode),OPEN_OCR,OPEN,125,125/125,0.223796,0.2098967200,0.23772666,,PRIMARY TABLE,,best valid conventional OCR: Qwen3-VL (OCR mode)
-best valid open/open-weight hybrid,hybrid,Qwen3-VL (OCR mode) + Qwen3-8B,OPEN_HYBRID,OPEN,119,119/125,0.34576723,0.33462595,0.35687029,17.252424,APPENDIX,,best valid open/open-weight hybrid: Qwen3-VL (OCR mode) + Qwen3-8B
