@@ -299,7 +299,7 @@ Citation metadata: [CITATION.cff](CITATION.cff)
 
 ## License
 
-No license file is currently included. Add the appropriate license before treating this repository as reusable by third parties.
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for details.
 
 ---
 

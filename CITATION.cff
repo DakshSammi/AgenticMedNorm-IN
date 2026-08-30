@@ -3,4 +3,7 @@ message: "Please cite the associated AgenticMedNorm-IN manuscript when using thi
 title: "AgenticMedNorm-IN"
 type: software
 repository-code: "https://github.com/DakshSammi/AgenticMedNorm-IN"
-license: "NOASSERTION"
+license: "Apache-2.0"
+authors:
+  - name: "Daksh Sammi"
+    email: "daksh21459@iiitd.ac.in"
