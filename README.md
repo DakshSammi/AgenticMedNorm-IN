@@ -1,65 +1,89 @@
+<div align="center">
+
 # AgenticMedNorm-IN
 
-> A reproducible six-agent pipeline for medication normalization in Indian handwritten prescriptions.
-> Submitted to the IEEE Journal of Biomedical and Health Informatics, 2026.
+### Knowledge-Guided Semantic Medication Normalization from Handwritten Indian Prescriptions
+
+[Paper](#citation) · [Dataset](#public-llm-audited-dataset) · [Quick Start](#quick-start) · [Results](#pipeline-outcomes) · [Documentation](docs/)
+
+Submitted to the IEEE Journal of Biomedical and Health Informatics, 2026.
+
+</div>
+
+---
+
+## Why AgenticMedNorm-IN?
+
+Handwritten Indian prescriptions contain local brand names, fixed-dose combinations, shorthand dosing, and spelling variation that defeat standard OCR pipelines. AgenticMedNorm-IN separates transcription from normalization: the system records what is visible, then resolves each medication mention to a supported local product, brand family, ingredient, or international terminology—explicitly routing ambiguous cases to human review rather than hallucinating a mapping.
 
 ---
 
 ## At a Glance
 
-| Property | Value |
-|----------|-------|
-| Corpus | 893 processed prescriptions, 3027 medication mentions |
-| Public dataset | 150 prescriptions, 762 mentions (LLM-audited) |
-| Pipeline agents | 6 (De-identification, Annotation, Retrieval, Ranking, Evidence, Verification) |
-| Retrieval branches | 5 (R1 exact/fuzzy, R2 BM25, R3 dense, R4 RxNorm, R5 India-KB) |
-| Ranking | Reciprocal Rank Fusion (k=60) |
-| Verification routing | ACCEPT=2803, HUMAN_REVIEW=223, NIL=1 |
-| Best benchmark | GPT-5.5 direct annotation: token_f1=0.5230 [0.4752, 0.5687] |
-| Structured extraction | GPT-5.5 0.3598 vs Gemini 0.3601 (no statistical difference) |
-| LLM semantic audit | Qwen3-30B: 73.2% SUPPORTED, 14.3% CONTRADICTED, 12.5% INSUFFICIENT_EVIDENCE |
+| | |
+|---|---|
+| Full corpus | 893 processed prescriptions, 3,027 medication mentions |
+| Medication-bearing | 782 prescriptions (111 zero-medication) |
+| Unique surfaces | 1,276 |
+| Pipeline agents | 6 bounded agents |
+| Retrieval branches | 5 (exact/fuzzy, BM25, dense, RxNorm, India-KB) |
+| Public validation set | 150 prescriptions, 762 medication mentions |
+| Semantic audit | Qwen3-30B on 762 mentions |
 
 ---
 
 ## Architecture
 
 ```
-Prescription Image
-       |
-  [A1] De-identification Agent
-       |
-  [A2] Annotation Creation Agent
-       |
-  [A3] Candidate Retrieval Agent
-       |--- R1: Exact/Fuzzy surface match
-       |--- R2: BM25 lexical retrieval
-       |--- R3: Biomedical dense retrieval (SapBERT)
-       |--- R4: RxNorm/RxNav terminology lookup
-       |--- R5: India-specific KB (NPPA, CDSCO, NLEM)
-       |
-  [A4] Candidate Ranking Agent (RRF k=60)
-       |
-  [A5] Evidence Assessment Agent
-       |
-  [A6] Verification Agent
-       |
-  Normalized Output (resolution_level, semantic IDs, evidence)
+Handwritten Prescription
+        │
+   ┌────▼────┐
+   │  A1     │  De-identification
+   └────┬────┘
+        │
+   ┌────▼────┐
+   │  A2     │  Annotation Creation (structured extraction)
+   └────┬────┘
+        │
+   ┌────▼────────────────────────────────────┐
+   │  A3  Candidate Retrieval                │
+   │  R1: exact/fuzzy surface match          │
+   │  R2: BM25 lexical retrieval             │
+   │  R3: SapBERT biomedical dense retrieval │
+   │  R4: RxNorm/RxNav terminology lookup    │
+   │  R5: India-specific KB (NPPA, CDSCO)    │
+   └────┬────────────────────────────────────┘
+        │
+   ┌────▼────┐
+   │  A4     │  Candidate Ranking (RRF, k=60)
+   └────┬────┘
+        │
+   ┌────▼────┐
+   │  A5     │  Evidence Assessment
+   └────┬────┘
+        │
+   ┌────▼────┐
+   │  A6     │  Verification
+   └────┬────┘
+        │
+   ┌────▼──────────────────────────┐
+   │  Layer B Normalized Output    │
+   │  ACCEPT / HUMAN_REVIEW / NIL  │
+   └───────────────────────────────┘
 ```
-
-The pipeline separates transcription from normalization: transcription records what is visible in a prescription, while normalization resolves medication mentions to supported local products, brand families, ingredients, formulations, RxNorm concepts, and ATC mappings where available.
 
 ---
 
-## Agents
+## Six Agents
 
-| Agent | Role | Key Capability |
-|-------|------|----------------|
-| A1: De-identification | Removes PHI from images | Redaction, face blur, date masking |
-| A2: Annotation Creation | Structured visual extraction | GPT-5.5 structured output, field-level parsing |
-| A3: Candidate Retrieval | Multi-branch evidence gathering | 5 retrieval branches, true candidate union |
-| A4: Candidate Ranking | Score fusion | RRF with k=60, Top-K selection |
-| A5: Evidence Assessment | Supporting/contradicting evidence | NPPA, CDSCO, RxNorm, ATC evidence scoring |
-| A6: Verification | Final routing decision | ACCEPT / HUMAN_REVIEW / NIL with reason codes |
+| Agent | Role |
+|-------|------|
+| **A1: De-identification** | Removes protected health information from prescription images |
+| **A2: Annotation Creation** | Structured visual extraction of medication fields |
+| **A3: Candidate Retrieval** | Multi-branch evidence gathering across five retrieval sources |
+| **A4: Candidate Ranking** | Score fusion via unweighted reciprocal rank fusion (k=60) |
+| **A5: Evidence Assessment** | Supporting and contradicting evidence scoring |
+| **A6: Verification** | Final routing: ACCEPT, HUMAN_REVIEW, or NIL with reason codes |
 
 ---
 
@@ -73,9 +97,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Copy `.env.example` only if you need optional online services. The public smoke test does not require API keys.
-
-### Run Smoke Test
+### Smoke Test (synthetic examples, no API keys needed)
 
 ```bash
 python scripts/run_pipeline.py \
@@ -86,7 +108,7 @@ python scripts/run_pipeline.py \
   --resume
 ```
 
-### Dry Run (no outputs written)
+### Dry Run
 
 ```bash
 python scripts/run_pipeline.py \
@@ -99,111 +121,89 @@ python scripts/run_pipeline.py \
 
 ---
 
-## Public Dataset
+## Public LLM-Audited Dataset
 
 The `dataset/llm_audited_150/` directory contains the public validation cohort:
 
-| File | Records | Description |
-|------|---------|-------------|
-| `images/` | 150 | Anonymized prescription images (AMNIN_RX_0001-0150) |
+| Component | Records | Description |
+|-----------|---------|-------------|
+| `images/` | 150 | De-identified prescription images (AMNIN_RX_0001–0150) |
 | `annotations.json` | 762 | Medication mention annotations |
 | `normalization.json` | 762 | Pipeline normalization outputs |
 | `llm_audit.json` | 762 | Qwen3-30B semantic audit results |
-| `checksums.sha256` | - | SHA-256 integrity verification |
+| `checksums.sha256` | — | SHA-256 integrity verification |
 
-All public IDs use the `AMNIN_RX_XXXX` format. Internal p-IDs and mention IDs are not included.
+All public IDs use the `AMNIN_RX_XXXX` format. Internal identifiers are not included.
 
-**ID remapping:** `AMNIN_RX_0001` through `AMNIN_RX_0150` map to internal prescription IDs. Each prescription's mentions are suffixed `_M001`, `_M002`, etc. The internal mapping is excluded from the repository.
+**Semantic auditor:** `dengcao/Qwen3-30B-A3B-Instruct-2507:latest` (Q4_K_M, 30.5B parameters, Ollama backend, temperature=0).
 
-**Audit coverage:** 711 of 762 mentions were processed by the Qwen semantic auditor. The remaining 51 are marked `NOT_AUDITED`.
+**Audit results (N=762):**
 
----
-
-## Benchmark
-
-All benchmark results use token-level set-based F1 (macro-averaged over 125 GPT-5.5 annotated prescriptions).
-
-### Table 5: Annotation Model Benchmark
-
-| System | Track | Token F1 | 95% CI |
-|--------|-------|-----------|--------|
-| GPT-5.5 | DIRECT_STRUCTURED_VLM | 0.5230 | [0.4752, 0.5687] |
-| Gemini 2.5 Flash | DIRECT_STRUCTURED_VLM | 0.5185 | [0.4760, 0.5603] |
-| Qwen3-VL-235B | DIRECT_STRUCTURED_VLM | 0.4958 | [0.4563, 0.5339] |
-| HF Qwen2.5-VL-72B | DIRECT_STRUCTURED_VLM | 0.4859 | [0.4461, 0.5235] |
-| DocTR + Qwen3 | HYBRID | 0.2780 | [0.2421, 0.3156] |
-| DocTR | RAW_OCR | 0.2712 | [0.2365, 0.3062] |
-| TrOCR + Qwen3 | HYBRID | 0.0215 | [0.0131, 0.0313] |
-| TrOCR | RAW_OCR | 0.0146 | [0.0086, 0.0227] |
-
-**Statistical comparison:** GPT-5.5 vs Gemini 2.5 Flash — bootstrap 95% CI for difference includes zero; no statistically significant superiority.
-
-### Structured Extraction (entity-level)
-
-| System | Metric |
-|--------|--------|
-| GPT-5.5 | 0.3598 |
-| Gemini 2.5 Flash | 0.3601 |
-
-Virtually tied; neither system is statistically superior.
-
----
-
-## Results
-
-### Corpus Accounting (Table 1)
-
-| Metric | Count |
-|--------|-------|
-| Raw prescriptions | 893 |
-| Medication-bearing | 782 |
-| Zero-medication | 111 |
-| Total medication mentions | 3027 |
-| Unique lexical surfaces | 1276 |
-
-### Verification Routing (Table 2)
-
-| Decision | Count | Rate |
-|----------|-------|------|
-| ACCEPT | 2803 | 92.6% |
-| HUMAN_REVIEW | 223 | 7.4% |
-| NIL | 1 | <0.1% |
-
-### LLM Semantic Audit (Table 8, N=762)
-
-| Assessment | Count | Rate |
-|------------|-------|------|
+| Assessment | N | % |
+|------------|---|---|
 | SUPPORTED | 558 | 73.2% |
 | CONTRADICTED | 109 | 14.3% |
 | INSUFFICIENT_EVIDENCE | 95 | 12.5% |
+| AGREE (pipeline routing) | 562 | 73.8% |
+| DISAGREE (pipeline routing) | 200 | 26.2% |
 
-| Pipeline Decision | Count | Rate |
-|-------------------|-------|------|
-| AGREE | 562 | 73.8% |
-| DISAGREE | 200 | 26.2% |
+---
+
+## Pipeline Outcomes
+
+### Corpus and Verification (full 893 corpus)
+
+| Metric | N | % |
+|--------|---|---|
+| Processed prescriptions | 893 | — |
+| Medication-bearing | 782 | 87.6% |
+| Zero-medication | 111 | 12.4% |
+| Medication mentions | 3,027 | — |
+| Unique surface forms | 1,276 | — |
+
+| Verification Decision | N | % |
+|-----------------------|---|---|
+| ACCEPT | 2,803 | 92.6% |
+| HUMAN_REVIEW | 223 | 7.4% |
+| NIL | 1 | <0.1% |
+
+> **Note:** HUMAN_REVIEW denotes a pipeline routing state and does not imply completed expert adjudication.
+
+### Semantic Identifier Coverage (full 893 corpus)
+
+| Identifier Type | N | % |
+|-----------------|---|---|
+| RxNorm RxCUI | 424 | 14.0% |
+| ATC therapeutic class | 106 | 3.5% |
+| Local brand-family ID | 2,623 | 86.7% |
+| Any local semantic ID | 3,017 | 99.7% |
 
 ---
 
 ## Knowledge Resources
 
-Operational knowledge sources used in the pipeline:
-
-| Resource | Purpose | Coverage |
-|----------|---------|----------|
-| NPPA Pharma Sahi Daam | Indian drug pricing/index | Brand family matching |
-| CDSCO | Approved drugs/FDCs | Formulation validation |
-| NLEM 2022 | National List of Essential Medicines | Ingredient canonicalization |
-| RxNorm/RxNav | US drug terminology | Ingredient/term mapping |
-| ATC/RxClass | WHO classification | Therapeutic category |
-| Open Indian Medicine Dataset | Indian brand names | Local brand families |
+| Resource | Purpose |
+|----------|---------|
+| NPPA Pharma Sahi Daam | Indian drug pricing and brand index |
+| CDSCO | Approved drugs and fixed-dose combinations |
+| NLEM 2022 | National List of Essential Medicines |
+| RxNorm / RxNav | US drug terminology (ingredient and term mapping) |
+| ATC / RxClass | WHO therapeutic classification |
+| Open Indian Medicine Dataset | Indian brand name coverage |
 
 Full documentation: [docs/knowledge_resources.md](docs/knowledge_resources.md)
 
 ---
 
+## Annotation Model Selection
+
+A separate frozen 125-document benchmark was used to select the annotation configuration. The best primary system (GPT-5.5 direct structured annotation) achieved token-level set-based F1 of 0.523 [95% CI: 0.475–0.569] on that benchmark. Full benchmark results are in `paper_artifacts/tables/`.
+
+---
+
 ## Reproducibility
 
-### Full Pipeline Reproduction
+### Full Pipeline
 
 ```bash
 python scripts/run_pipeline.py \
@@ -214,20 +214,20 @@ python scripts/run_pipeline.py \
   --resume
 ```
 
-### Benchmark Table Reconstruction
+### Benchmark Reconstruction
 
 ```bash
 python scripts/reproduce_paper_artifacts.py
 ```
 
-### Public Dataset Verification
+### Dataset Verification
 
 ```bash
 cd dataset/llm_audited_150
 sha256sum -c checksums.sha256
 ```
 
-See [docs/reproducibility.md](docs/reproducibility.md) for complete instructions covering resource construction, pipeline execution, figure-data generation, and expert-validation metric generation.
+See [docs/reproducibility.md](docs/reproducibility.md) for complete instructions.
 
 ---
 
@@ -235,63 +235,53 @@ See [docs/reproducibility.md](docs/reproducibility.md) for complete instructions
 
 ```
 AgenticMedNorm-IN/
-  src/                    Six-agent pipeline core
-    adapters/             Backend adapters (VLM, OCR, FLORENCE, etc.)
-    annotation/           Agent A2: annotation creation
-    benchmark/            Evaluation metrics and runner
-    deidentification/     Agent A1: PHI removal
-    evidence/             Agent A5: evidence assessment
-    knowledge/            Knowledge base construction
-    ocr_benchmark/        OCR engine evaluation suite
-    pipeline/             Orchestrator
-    ranking/              Agent A4: candidate ranking (RRF)
-    retrieval/            Agent A3: multi-branch retrieval
-    schemas/              Pydantic data models
-    semantic_pipeline/    NER, normalization, ontology mapping
-    state/                Pipeline state management
-    utils/                Rate limiting, stable IDs
-    verification/         Agent A6: routing decisions
-  scripts/                Orchestration and utility scripts
-  configs/                Frozen pipeline configurations
-    frozen/               Frozen evaluation manifests
-    evaluation/           Output schema definitions
-  tests/                  Test suite (9 active tests in pytest.ini)
-  dataset/
-    llm_audited_150/      Public validation cohort
-  paper_artifacts/        Paper tables, figures, metrics
-    accounting/           Paper claim registry
-    figures/              Generated figures (fig01-fig16)
-    final_metrics/        Verified benchmark scores
-    tables/               CSV + LaTeX tables
-  docs/                   Architecture, evaluation, reproducibility docs
-  knowledge/
-    reports/              Implementation matrix
-  supplementary/          Supplementary materials
+├── src/                    Six-agent pipeline core
+│   ├── adapters/           Backend adapters (VLM, OCR)
+│   ├── annotation/         Agent A2: annotation creation
+│   ├── benchmark/          Evaluation metrics and runner
+│   ├── deidentification/   Agent A1: PHI removal
+│   ├── evidence/           Agent A5: evidence assessment
+│   ├── knowledge/          Knowledge base construction
+│   ├── pipeline/           Orchestrator
+│   ├── ranking/            Agent A4: candidate ranking
+│   ├── retrieval/          Agent A3: multi-branch retrieval
+│   ├── schemas/            Pydantic data models
+│   └── verification/       Agent A6: routing decisions
+├── scripts/                Orchestration and utility scripts
+├── configs/                Frozen pipeline configurations
+├── tests/                  Test suite (9 active tests)
+├── dataset/
+│   └── llm_audited_150/    Public validation cohort
+├── paper_artifacts/        Paper tables, figures, metrics
+├── docs/                   Architecture, evaluation, reproducibility
+└── knowledge/
+    └── reports/            Implementation matrix
 ```
 
 ---
 
 ## Limitations
 
-- The corpus is limited to Indian handwritten prescriptions in English. Generalizability to other scripts or languages is not claimed.
-- Not all local brands or fixed-dose combinations can be resolved automatically. Verification returns HUMAN_REVIEW or NIL when evidence is missing, conflicting, or only source-record level.
+- The corpus is limited to Indian handwritten prescriptions in English.
+- Not all local brands or fixed-dose combinations can be resolved automatically. Verification returns HUMAN_REVIEW or NIL when evidence is missing or conflicting.
 - RxNorm/RxNav and dense retrieval (SapBERT/FAISS) may require separately downloaded resources.
-- The public LLM audit is a semantic audit by Qwen3-30B, not expert human validation. Ground-truth adjudication is pending governance approval.
-- Semantic ID coverage (RxCUI 14.0%, ATC 3.5%) reflects the current state of available mappings for Indian products, not a deficiency in the pipeline.
+- The public LLM audit is a semantic audit, not expert human validation.
 
 ---
 
 ## Citation
 
 ```bibtex
-@article{agenticmednormin2026,
-  title={AgenticMedNorm-IN: A Six-Agent Pipeline for Medication Normalization in Indian Handwritten Prescriptions},
-  author={},
-  journal={IEEE Journal of Biomedical and Health Informatics},
-  year={2026},
-  status={submitted}
+@software{agenticmednormin2026,
+  title       = {AgenticMedNorm-IN},
+  author      = {Daksh Sammi and Sanju Tiwari and Mayank Kejriwal and Ashok Kumar and Deepak Sharma},
+  year        = {2026},
+  url         = {https://github.com/DakshSammi/AgenticMedNorm-IN},
+  status      = {submitted}
 }
 ```
+
+**Manuscript citation:** Sammi, D., Tiwari, S., Kejriwal, M., Kumar, A., & Sharma, D. (2026). AgenticMedNorm-IN: Knowledge-Guided Semantic Medication Normalization from Handwritten Indian Prescriptions. *Submitted to IEEE Journal of Biomedical and Health Informatics.* Bibliographic details will be updated upon publication.
 
 Citation metadata: [CITATION.cff](CITATION.cff)
 
@@ -299,10 +289,12 @@ Citation metadata: [CITATION.cff](CITATION.cff)
 
 ## License
 
-Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for details.
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE).
 
 ---
 
-## Privacy and Data Availability
+## Data Availability and Privacy
 
-Real prescription images, de-identified prescription images, and ground-truth JSONs containing patient-level clinical content are excluded from the public release. The `dataset/llm_audited_150/` directory contains only de-identified prescription images with public AMNIN_RX IDs and associated LLM audit results. Access to the full clinical corpus requires a separate governance and data-use process.
+**Full 893 corpus:** De-identified prescription images, raw images, and ground-truth JSONs containing patient-level clinical content are not publicly released as a complete image dataset. Access requires a separate governance and data-use process.
+
+**Public stratified subset:** The `dataset/llm_audited_150/` directory contains 150 de-identified prescription images with publication-safe annotations, normalization outputs, and LLM audit results. All internal identifiers have been replaced with public AMNIN_RX identifiers.
