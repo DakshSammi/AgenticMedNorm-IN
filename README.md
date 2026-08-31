@@ -127,7 +127,7 @@ The `dataset/llm_audited_150/` directory contains the public validation cohort:
 
 | Component | Records | Description |
 |-----------|---------|-------------|
-| `images/` | 150 | De-identified prescription images (AMNIN_RX_0001–0150) |
+| `images/` | 10 | De-identified prescription images (AMNIN_RX_0001–010) |
 | `annotations.json` | 762 | Medication mention annotations |
 | `normalization.json` | 762 | Pipeline normalization outputs |
 | `llm_audit.json` | 762 | Qwen3-30B semantic audit results |
@@ -251,7 +251,7 @@ AgenticMedNorm-IN/
 ├── configs/                Frozen pipeline configurations
 ├── tests/                  Test suite (9 active tests)
 ├── dataset/
-│   └── llm_audited_150/    Public validation cohort
+│   └── llm_audited_10/    Public validation cohort
 ├── paper_artifacts/        Paper tables, figures, metrics
 ├── docs/                   Architecture, evaluation, reproducibility
 └── knowledge/
@@ -295,6 +295,6 @@ Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE).
 
 ## Data Availability and Privacy
 
-**Full 893 corpus:** De-identified prescription images, raw images, and ground-truth JSONs containing patient-level clinical content are not publicly released as a complete image dataset. Access requires a separate governance and data-use process.
+**Full 893 corpus:** De-identified prescription images, raw images, and ground-truth JSONs containing patient-level clinical content are not publicly released as a complete image dataset. Access requires a separate governance and data-use process. Contact at: sanju.tiwari@sharda.ac.in
 
 **Public stratified subset:** The `dataset/llm_audited_150/` directory contains 150 de-identified prescription images with publication-safe annotations, normalization outputs, and LLM audit results. All internal identifiers have been replaced with public AMNIN_RX identifiers.
